@@ -1,0 +1,1 @@
+A site where people can ask analytical questions about VCT Season 2 Playoffs in Americas, EMEA, and APAC in plain language and would get responses from an LLM grounded on VCT Season 2 Playoffs stats/data scrapped from VLR.gg
