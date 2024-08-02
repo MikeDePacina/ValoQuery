@@ -39,7 +39,7 @@ if matches_html.status_code == 200:
 
 
 
-csv_columns = [
+player_stats_columns = [
                "MatchID",
                "Map", 
                "Player", 
@@ -54,19 +54,75 @@ csv_columns = [
                "First Deaths",
                ]
 
-df = pd.DataFrame(columns=csv_columns)
+match_columns = [
+    "MatchID",
+    "Winner",
+    "Loser",
+    "Winner Score",
+    "Loser Score",
+    "Picks and Bans",
+]
+
+
+
+df_player_stats = pd.DataFrame(columns=player_stats_columns)
+df_match_details = pd.DataFrame(columns=match_columns)
+
+
 
 for index, url in enumerate(matches_urls):
     driver.get(url)
 
-    #wait 1s for page to load
+   
     driver.implicitly_wait(1)
 
+    match_id = index
+
+    #populate match df
+    match_row = [match_id]
+
+    match_header = driver.find_element(By.CLASS_NAME, 'match-header-vs')
+    teams = match_header.find_elements(By.CLASS_NAME, 'wf-title-med')
+    
+    match_score_container = match_header.find_element(By.CLASS_NAME, 'match-header-vs-score')
+    match_scores = match_score_container.find_element(By.CLASS_NAME, 'match-header-vs-score')
+
+    #Get children of match_scores container - order of winner and loser score determines if left or right team won
+    scores_container = match_scores.find_element(By.CLASS_NAME, 'js-spoiler')
+    scores = scores_container.find_elements(By.XPATH, './*')
+
+    winner = ''
+    loser = ''
+
+    for score in scores:
+        if score.get_attribute('class') == 'match-header-vs-score-winner':
+            winner = teams[0].text
+            loser = teams[1].text
+            break
+        if score.get_attribute('class') == 'match-header-vs-score-loser':
+            winner = teams[1].text
+            loser = teams[0].text
+            break
+
+
+    winner_score = match_scores.find_element(By.CLASS_NAME, 'match-header-vs-score-winner').text
+    loser_score = match_scores.find_element(By.CLASS_NAME, 'match-header-vs-score-loser').text
+    picks_and_bans = driver.find_element(By.CLASS_NAME, 'match-header-note').text
+
+    match_row.append(winner)
+    match_row.append(loser)
+    match_row.append(winner_score)
+    match_row.append(loser_score)
+    match_row.append(picks_and_bans)
+
+    df_match_details.loc[len(df_match_details)] = match_row
+
+    match_row = []
+
+    #player stats container
     stats_container = driver.find_element(By.CLASS_NAME, 'vm-stats')
     maps = stats_container.find_elements(By.CLASS_NAME, 'vm-stats-gamesnav-item')
 
-    #skip all maps overview
-    match_id = index
     for map in maps:
         
         #skip match overview and map if disabled (match already concluded)
@@ -143,8 +199,10 @@ for index, url in enumerate(matches_urls):
                             print(f"First Deaths: {field.find('span', class_='side mod-both').text.strip()}")
 
                     print(new_row)
-                    df.loc[len(df)] = new_row
+                    df_player_stats.loc[len(df_player_stats)] = new_row
                     new_row = []
 
 driver.quit()
-df.to_csv('./csvs/vct_apac_season2_playoffs_player_stats.csv', index=False)
+
+df_match_details.to_csv('./csvs/vct_apac_season2_playoffs_match_details.csv', index=False)
+df_player_stats.to_csv('./csvs/vct_apac_season2_playoffs_player_stats.csv', index=False)

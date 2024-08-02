@@ -1,0 +1,9 @@
+MatchID,Winner,Loser,Winner Score,Loser Score,Picks and Bans
+0,Gen.G,Rex Regum Qeon,2,0,RRQ ban Lotus; GEN ban Abyss; RRQ pick Haven; GEN pick Bind; RRQ ban Ascent; GEN ban Icebox; Sunset remains
+1,Talon Esports,Team Secret,2,0,TLN ban Sunset; TS ban Bind; TLN pick Lotus; TS pick Abyss; TLN ban Icebox; TS ban Ascent; Haven remains
+2,Gen.G,Paper Rex,2,0,GEN ban Abyss; PRX ban Haven; GEN pick Ascent; PRX pick Icebox; GEN ban Sunset; PRX ban Bind; Lotus remains
+3,DRX,Talon Esports,2,0,TLN ban Icebox; DRX ban Lotus; TLN pick Ascent; DRX pick Abyss; TLN ban Bind; DRX ban Haven; Sunset remains
+4,Gen.G,DRX,2,1,GEN ban Abyss; DRX ban Lotus; GEN pick Haven; DRX pick Sunset; GEN ban Icebox; DRX ban Ascent; Bind remains
+5,Paper Rex,Talon Esports,2,0,TLN ban Abyss; PRX ban Haven; TLN pick Ascent; PRX pick Sunset; TLN ban Icebox; PRX ban Bind; Lotus remains
+6,DRX,Paper Rex,3,2,DRX ban Sunset; PRX ban Haven; DRX pick Abyss; PRX pick Lotus; DRX pick Bind; PRX pick Icebox; Ascent remains
+7,Gen.G,DRX,3,1,GEN ban Sunset; GEN ban Abyss; GEN pick Haven; DRX pick Bind; GEN pick Lotus; DRX pick Icebox; Ascent remains
