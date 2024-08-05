@@ -1,0 +1,9 @@
+MatchID,Winner,Loser,Winner Score,Loser Score,Picks and Bans
+1,KRÜ Esports,Cloud9,2,1,C9 ban Ascent; KRÜ ban Bind; C9 pick Abyss; KRÜ pick Lotus; C9 ban Sunset; KRÜ ban Icebox; Haven remains
+2,100 Thieves,Sentinels,2,0,SEN ban Icebox; 100T ban Sunset; SEN pick Haven; 100T pick Ascent; SEN ban Bind; 100T ban Lotus; Abyss remains
+3,LEVIATÁN,KRÜ Esports,2,0,LEV ban Lotus; KRÜ ban Bind; LEV pick Icebox; KRÜ pick Sunset; LEV ban Abyss; KRÜ ban Ascent; Haven remains
+4,G2 Esports,100 Thieves,2,0,G2 ban Ascent; 100T ban Bind; G2 pick Lotus; 100T pick Abyss; G2 ban Icebox; 100T ban Sunset; Haven remains
+5,G2 Esports,LEVIATÁN,2,0,LEV ban Lotus; G2 ban Sunset; LEV pick Icebox; G2 pick Bind; LEV ban Abyss; G2 ban Ascent; Haven remains
+6,KRÜ Esports,100 Thieves,2,1,100T ban Sunset; KRÜ ban Bind; 100T pick Icebox; KRÜ pick Lotus; 100T ban Haven; KRÜ ban Abyss; Ascent remains
+7,LEVIATÁN,KRÜ Esports,3,2,LEV ban Lotus; KRÜ ban Bind; LEV pick Icebox; KRÜ pick Haven; LEV pick Sunset; KRÜ pick Abyss; Ascent remains
+8,LEVIATÁN,G2 Esports,3,1,G2 ban Icebox; G2 ban Sunset; G2 pick Lotus; LEV pick Haven; G2 pick Bind; LEV pick Ascent; Abyss remains
