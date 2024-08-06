@@ -1,0 +1,24 @@
+MatchID,MapID,Map Name,Winner,Loser,Winner Score,Winner Attack Score,Winner Defense Score,Loser Score,Loser Attack Score,Loser Defense Score
+17,46,Haven,Natus Vincere,Team Vitality,13,7,6,8,6,2
+17,47,Sunset,Team Vitality,Natus Vincere,13,10,3,5,3,2
+17,48,Ascent,Team Vitality,Natus Vincere,13,5,8,7,0,7
+18,49,Icebox,Karmine Corp,FNATIC,13,6,7,7,5,2
+18,50,Sunset,FNATIC,Karmine Corp,15,6,6,13,6,6
+18,51,Lotus,FNATIC,Karmine Corp,13,8,5,6,2,4
+19,52,Icebox,Team Heretics,Team Vitality,14,3,9,12,3,9
+19,53,Sunset,Team Vitality,Team Heretics,13,6,7,10,5,5
+19,54,Bind,Team Vitality,Team Heretics,14,7,5,12,7,5
+20,55,Sunset,FNATIC,FUT Esports,15,7,5,13,7,5
+20,56,Haven,FNATIC,FUT Esports,13,8,5,5,1,4
+21,57,Lotus,FNATIC,Team Vitality,13,8,5,11,7,4
+21,58,Sunset,FNATIC,Team Vitality,13,4,9,6,3,3
+22,59,Abyss,Team Heretics,FUT Esports,13,6,7,10,4,6
+22,60,Sunset,Team Heretics,FUT Esports,13,8,5,11,7,4
+23,61,Icebox,Team Heretics,Team Vitality,13,4,9,6,3,3
+23,62,Sunset,Team Vitality,Team Heretics,13,5,8,4,4,0
+23,63,Lotus,Team Vitality,Team Heretics,13,4,9,3,3,0
+23,64,Haven,Team Vitality,Team Heretics,13,8,5,9,5,4
+24,65,Haven,FNATIC,Team Vitality,13,4,9,8,3,5
+24,66,Ascent,Team Vitality,FNATIC,13,8,5,9,5,4
+24,67,Lotus,FNATIC,Team Vitality,13,5,8,9,4,5
+24,68,Bind,FNATIC,Team Vitality,13,3,10,3,2,1

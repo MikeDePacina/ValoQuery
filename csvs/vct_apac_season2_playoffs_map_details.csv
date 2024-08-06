@@ -1,0 +1,23 @@
+MatchID,MapID,Map Name,Winner,Loser,Winner Score,Winner Attack Score,Winner Defense Score,Loser Score,Loser Attack Score,Loser Defense Score
+9,24,Haven,Gen.G,Rex Regum Qeon,13,6,7,8,5,3
+9,25,Bind,Gen.G,Rex Regum Qeon,13,7,6,11,6,5
+10,26,Lotus,Talon Esports,Team Secret,13,6,7,11,5,6
+10,27,Abyss,Talon Esports,Team Secret,13,6,7,11,5,6
+11,28,Ascent,Gen.G,Paper Rex,13,4,9,10,3,7
+11,29,Icebox,Gen.G,Paper Rex,13,5,8,5,4,1
+12,30,Ascent,DRX,Talon Esports,13,7,6,8,3,5
+12,31,Abyss,DRX,Talon Esports,13,5,8,4,4,0
+13,32,Haven,Gen.G,DRX,13,4,9,9,3,6
+13,33,Sunset,DRX,Gen.G,13,6,7,10,4,6
+13,34,Bind,Gen.G,DRX,13,6,7,6,5,1
+14,35,Ascent,Paper Rex,Talon Esports,13,3,10,3,2,1
+14,36,Sunset,Paper Rex,Talon Esports,13,9,4,3,0,3
+15,37,Abyss,Paper Rex,DRX,13,6,7,7,1,6
+15,38,Lotus,Paper Rex,DRX,13,6,7,10,5,5
+15,39,Bind,DRX,Paper Rex,13,5,8,10,4,6
+15,40,Icebox,DRX,Paper Rex,13,6,7,10,4,6
+15,41,Ascent,DRX,Paper Rex,13,7,6,7,2,5
+16,42,Haven,DRX,Gen.G,13,10,3,6,4,2
+16,43,Bind,Gen.G,DRX,18,5,7,16,5,7
+16,44,Lotus,Gen.G,DRX,14,7,5,12,7,5
+16,45,Icebox,Gen.G,DRX,13,6,7,6,5,1

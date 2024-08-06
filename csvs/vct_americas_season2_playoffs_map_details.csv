@@ -1,0 +1,24 @@
+MatchID,MapID,Map Name,Winner,Loser,Winner Score,Winner Attack Score,Winner Defense Score,Loser Score,Loser Attack Score,Loser Defense Score
+1,1,Abyss,KRÜ Esports,Cloud9,13,6,7,11,5,6
+1,2,Lotus,Cloud9,KRÜ Esports,13,11,2,11,10,1
+1,3,Haven,KRÜ Esports,Cloud9,13,4,9,6,3,3
+2,4,Haven,100 Thieves,Sentinels,13,9,4,7,4,3
+2,5,Ascent,100 Thieves,Sentinels,13,8,5,10,6,4
+3,6,Icebox,LEVIATÁN,KRÜ Esports,13,3,10,2,2,0
+3,7,Sunset,LEVIATÁN,KRÜ Esports,13,3,10,4,2,2
+4,8,Lotus,G2 Esports,100 Thieves,13,6,7,5,5,0
+4,9,Abyss,G2 Esports,100 Thieves,13,6,7,10,5,5
+5,10,Icebox,G2 Esports,LEVIATÁN,13,10,3,8,6,2
+5,11,Bind,G2 Esports,LEVIATÁN,13,8,5,6,2,4
+6,12,Icebox,100 Thieves,KRÜ Esports,13,6,7,9,3,6
+6,13,Lotus,KRÜ Esports,100 Thieves,13,7,6,11,6,5
+6,14,Ascent,KRÜ Esports,100 Thieves,13,5,8,11,4,7
+7,15,Icebox,LEVIATÁN,KRÜ Esports,13,11,2,3,2,1
+7,16,Haven,KRÜ Esports,LEVIATÁN,13,5,8,11,4,7
+7,17,Sunset,KRÜ Esports,LEVIATÁN,13,9,4,7,4,3
+7,18,Abyss,LEVIATÁN,KRÜ Esports,13,5,8,10,4,6
+7,19,Ascent,LEVIATÁN,KRÜ Esports,13,8,5,10,6,4
+8,20,Lotus,LEVIATÁN,G2 Esports,15,6,6,13,6,6
+8,21,Haven,LEVIATÁN,G2 Esports,16,5,7,14,5,7
+8,22,Bind,G2 Esports,LEVIATÁN,13,4,9,9,1,8
+8,23,Ascent,LEVIATÁN,G2 Esports,13,8,5,4,0,4

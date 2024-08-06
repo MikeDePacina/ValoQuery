@@ -1,0 +1,25 @@
+MatchID,MapID,Map Name,Winner,Loser,Winner Score,Winner Attack Score,Winner Defense Score,Loser Score,Loser Attack Score,Loser Defense Score
+25,69,Lotus,Trace Esports,All Gamers,13,9,4,7,4,3
+25,70,Sunset,Trace Esports,All Gamers,13,8,5,10,7,3
+26,71,Sunset,Bilibili Gaming,JDG Esports,13,7,6,9,4,5
+26,72,Icebox,Bilibili Gaming,JDG Esports,13,7,6,7,2,5
+27,73,Ascent,Trace Esports,FunPlus Phoenix,13,4,9,3,3,0
+27,74,Haven,Trace Esports,FunPlus Phoenix,13,9,4,11,8,3
+28,75,Sunset,EDward Gaming,Bilibili Gaming,13,7,6,5,0,5
+28,76,Bind,Bilibili Gaming,EDward Gaming,13,5,8,7,4,3
+28,77,Lotus,EDward Gaming,Bilibili Gaming,13,9,4,10,7,3
+29,78,Sunset,EDward Gaming,Trace Esports,13,10,3,2,0,2
+29,79,Abyss,EDward Gaming,Trace Esports,13,6,7,5,5,0
+30,80,Ascent,FunPlus Phoenix,Bilibili Gaming,13,4,9,3,3,0
+30,81,Icebox,Bilibili Gaming,FunPlus Phoenix,14,7,5,12,7,5
+30,82,Lotus,FunPlus Phoenix,Bilibili Gaming,13,7,6,10,6,4
+31,83,Lotus,Trace Esports,FunPlus Phoenix,13,7,6,11,6,5
+31,84,Ascent,Trace Esports,FunPlus Phoenix,13,6,7,8,2,6
+31,85,Abyss,FunPlus Phoenix,Trace Esports,13,6,7,8,5,3
+31,86,Bind,FunPlus Phoenix,Trace Esports,13,7,6,9,6,3
+31,87,Haven,FunPlus Phoenix,Trace Esports,13,7,6,8,6,2
+32,88,Sunset,EDward Gaming,FunPlus Phoenix,13,9,4,9,6,3
+32,89,Abyss,FunPlus Phoenix,EDward Gaming,13,6,7,8,5,3
+32,90,Haven,EDward Gaming,FunPlus Phoenix,13,4,9,7,3,4
+32,91,Icebox,FunPlus Phoenix,EDward Gaming,13,8,5,9,7,2
+32,92,Bind,EDward Gaming,FunPlus Phoenix,13,10,3,8,6,2
