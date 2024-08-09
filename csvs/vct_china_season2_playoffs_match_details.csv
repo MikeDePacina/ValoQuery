@@ -1,9 +1,9 @@
-MatchID,Winner,Loser,Winner Score,Loser Score,Picks and Bans
-25,Trace Esports,All Gamers,2,0,AG ban Abyss; TE ban Icebox; AG pick Lotus; TE pick Sunset; AG ban Ascent; TE ban Bind; Haven remains
-26,Bilibili Gaming,JDG Esports,2,0,BLG ban Haven; JDG ban Abyss; BLG pick Sunset; JDG pick Icebox; BLG ban Bind; JDG ban Ascent; Lotus remains
-27,Trace Esports,FunPlus Phoenix,2,0,TE ban Icebox; FPX ban Sunset; TE pick Ascent; FPX pick Haven; TE ban Abyss; FPX ban Bind; Lotus remains
-28,EDward Gaming,Bilibili Gaming,2,1,BLG ban Haven; EDG ban Ascent; BLG pick Sunset; EDG pick Bind; BLG ban Icebox; EDG ban Abyss; Lotus remains
-29,EDward Gaming,Trace Esports,2,0,TE ban Icebox; EDG ban Ascent; TE pick Sunset; EDG pick Abyss; TE ban Haven; EDG ban Bind; Lotus remains
-30,FunPlus Phoenix,Bilibili Gaming,2,1,BLG ban Haven; FPX ban Sunset; BLG pick Ascent; FPX pick Icebox; BLG ban Abyss; FPX ban Bind; Lotus remains
-31,FunPlus Phoenix,Trace Esports,3,2,FPX ban Sunset; TE ban Icebox; FPX pick Lotus; TE pick Ascent; FPX pick Abyss; TE pick Bind; Haven remains
-32,EDward Gaming,FunPlus Phoenix,3,2,EDG ban Ascent; EDG ban Lotus; EDG pick Sunset; FPX pick Abyss; EDG pick Haven; FPX pick Icebox; Bind remains
+MatchID,Match Date,Winner,Loser,Winner Score,Loser Score,Picks and Bans
+25,"July 16, 2024",Trace Esports,All Gamers,2,0,AG ban Abyss; TE ban Icebox; AG pick Lotus; TE pick Sunset; AG ban Ascent; TE ban Bind; Haven remains
+26,"July 16, 2024",Bilibili Gaming,JDG Esports,2,0,BLG ban Haven; JDG ban Abyss; BLG pick Sunset; JDG pick Icebox; BLG ban Bind; JDG ban Ascent; Lotus remains
+27,"July 17, 2024",Trace Esports,FunPlus Phoenix,2,0,TE ban Icebox; FPX ban Sunset; TE pick Ascent; FPX pick Haven; TE ban Abyss; FPX ban Bind; Lotus remains
+28,"July 17, 2024",EDward Gaming,Bilibili Gaming,2,1,BLG ban Haven; EDG ban Ascent; BLG pick Sunset; EDG pick Bind; BLG ban Icebox; EDG ban Abyss; Lotus remains
+29,"July 18, 2024",EDward Gaming,Trace Esports,2,0,TE ban Icebox; EDG ban Ascent; TE pick Sunset; EDG pick Abyss; TE ban Haven; EDG ban Bind; Lotus remains
+30,"July 18, 2024",FunPlus Phoenix,Bilibili Gaming,2,1,BLG ban Haven; FPX ban Sunset; BLG pick Ascent; FPX pick Icebox; BLG ban Abyss; FPX ban Bind; Lotus remains
+31,"July 19, 2024",FunPlus Phoenix,Trace Esports,3,2,FPX ban Sunset; TE ban Icebox; FPX pick Lotus; TE pick Ascent; FPX pick Abyss; TE pick Bind; Haven remains
+32,"July 20, 2024",EDward Gaming,FunPlus Phoenix,3,2,EDG ban Ascent; EDG ban Lotus; EDG pick Sunset; FPX pick Abyss; EDG pick Haven; FPX pick Icebox; Bind remains

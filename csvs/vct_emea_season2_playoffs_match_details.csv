@@ -1,9 +1,9 @@
-MatchID,Winner,Loser,Winner Score,Loser Score,Picks and Bans
-17,Team Vitality,Natus Vincere,2,1,NAVI ban Icebox; VIT ban Abyss; NAVI pick Haven; VIT pick Sunset; NAVI ban Lotus; VIT ban Bind; Ascent remains
-18,FNATIC,Karmine Corp,2,1,FNC ban Abyss; KC ban Haven; FNC pick Icebox; KC pick Sunset; FNC ban Bind; KC ban Ascent; Lotus remains
-19,Team Vitality,Team Heretics,2,1,VIT ban Abyss; TH ban Ascent; VIT pick Icebox; TH pick Sunset; VIT ban Haven; TH ban Lotus; Bind remains
-20,FNATIC,FUT Esports,2,0,FUT ban Icebox; FNC ban Abyss; FUT pick Sunset; FNC pick Haven; FUT ban Bind; FNC ban Ascent; Lotus remains
-21,FNATIC,Team Vitality,2,0,FNC ban Icebox; VIT ban Haven; FNC pick Lotus; VIT pick Sunset; FNC ban Bind; VIT ban Abyss; Ascent remains
-22,Team Heretics,FUT Esports,2,0,FUT ban Haven; TH ban Ascent; FUT pick Abyss; TH pick Sunset; FUT ban Icebox; TH ban Lotus; Bind remains
-23,Team Vitality,Team Heretics,3,1,VIT ban Abyss; TH ban Ascent; VIT pick Icebox; TH pick Sunset; VIT pick Lotus; TH pick Haven; Bind remains
-24,FNATIC,Team Vitality,3,1,FNC ban Icebox; FNC ban Sunset; FNC pick Haven; VIT pick Ascent; FNC pick Lotus; VIT pick Bind; Abyss remains
+MatchID,Match Date,Winner,Loser,Winner Score,Loser Score,Picks and Bans
+17,"July 15, 2024",Team Vitality,Natus Vincere,2,1,NAVI ban Icebox; VIT ban Abyss; NAVI pick Haven; VIT pick Sunset; NAVI ban Lotus; VIT ban Bind; Ascent remains
+18,"July 15, 2024",FNATIC,Karmine Corp,2,1,FNC ban Abyss; KC ban Haven; FNC pick Icebox; KC pick Sunset; FNC ban Bind; KC ban Ascent; Lotus remains
+19,"July 16, 2024",Team Vitality,Team Heretics,2,1,VIT ban Abyss; TH ban Ascent; VIT pick Icebox; TH pick Sunset; VIT ban Haven; TH ban Lotus; Bind remains
+20,"July 16, 2024",FNATIC,FUT Esports,2,0,FUT ban Icebox; FNC ban Abyss; FUT pick Sunset; FNC pick Haven; FUT ban Bind; FNC ban Ascent; Lotus remains
+21,"July 17, 2024",FNATIC,Team Vitality,2,0,FNC ban Icebox; VIT ban Haven; FNC pick Lotus; VIT pick Sunset; FNC ban Bind; VIT ban Abyss; Ascent remains
+22,"July 17, 2024",Team Heretics,FUT Esports,2,0,FUT ban Haven; TH ban Ascent; FUT pick Abyss; TH pick Sunset; FUT ban Icebox; TH ban Lotus; Bind remains
+23,"July 19, 2024",Team Vitality,Team Heretics,3,1,VIT ban Abyss; TH ban Ascent; VIT pick Icebox; TH pick Sunset; VIT pick Lotus; TH pick Haven; Bind remains
+24,"July 20, 2024",FNATIC,Team Vitality,3,1,FNC ban Icebox; FNC ban Sunset; FNC pick Haven; VIT pick Ascent; FNC pick Lotus; VIT pick Bind; Abyss remains

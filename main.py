@@ -29,37 +29,48 @@ def isInt(s):
     except ValueError:
         return False
 
-def get_matches_url(html_response):
+def get_matches_dates_and_urls(html_response):
     if html_response.status_code != 200:
         print('Error fetching page')
         return None
     
-    matches_urls = []
-
-    soup = BeautifulSoup(html_response.text, 'html.parser')
-    links = soup.find_all('a')
-    for link in links:
-        url = link.get('href')
-        if url is None:
-            continue
-        url_parts = url.split('/')
-        
-
-        if len(url_parts) > 2 and isInt(url_parts[1]):
-            combined_url = '/'.join([s for s in url_parts[1:]])
-            match_url = base_url + combined_url
-            matches_urls.append(match_url)
+    matches_date_and_urls = []
     
-    return matches_urls
+    soup = BeautifulSoup(html_response.text, 'html.parser')
+    
+    wf_cards = soup.find_all('div', class_='wf-card')
+    for wf_card in wf_cards:
+        if wf_card.previous_sibling.previous_sibling is not None:
+            date_raw = wf_card.previous_sibling.previous_sibling.text.strip()
+            numerical_date = date_raw.split(',')[1:]
+            date_string = ', '.join(s.strip() for s in numerical_date)
+            
 
-vct_apac_matches_urls = get_matches_url(vct_apac_matches_html)
-vct_americas_matches_urls = get_matches_url(vct_americas_matches_html)
-vct_emea_matches_urls = get_matches_url(vct_emea_matches_html)
-vct_china_matches_urls = get_matches_url(vct_china_matches_html)
+        links = wf_card.find_all('a')
+        for link in links:
+            url = link.get('href')
+            if url is None:
+                continue
+            url_parts = url.split('/')
+            
+
+            if len(url_parts) > 2 and isInt(url_parts[1]):
+                combined_url = '/'.join([s for s in url_parts[1:]])
+                match_url = base_url + combined_url
+                matches_date_and_urls.append((date_string, match_url))
+                
+    
+    return matches_date_and_urls
+
+vct_apac_matches_info = get_matches_dates_and_urls(vct_apac_matches_html)
+vct_americas_matches_info = get_matches_dates_and_urls(vct_americas_matches_html)
+vct_emea_matches_info = get_matches_dates_and_urls(vct_emea_matches_html)
+vct_china_matches_info = get_matches_dates_and_urls(vct_china_matches_html)
 
 player_stats_columns = [
     "MatchID",
-    "Map", 
+    "MapID",
+    "Map Name", 
     "Player", 
     "Team", 
     "Agent", 
@@ -74,6 +85,7 @@ player_stats_columns = [
 
 match_columns = [
     "MatchID",
+    "Match Date",
     "Winner",
     "Loser",
     "Winner Score",
@@ -112,14 +124,14 @@ df_vct_china_season2_playoffs_match_details = pd.DataFrame(columns=match_columns
 df_vct_china_season2_playoffs_map_details = pd.DataFrame(columns=map_columns)
 
 
-def get_match_details(match_url):
+def get_match_details(match_info_pair):
     global match_id 
     match_id += 1
 
-    global_driver.get(match_url)
+    global_driver.get(match_info_pair[1])
     global_driver.implicitly_wait(0.5)
     
-    match_entry = [match_id]
+    match_entry = [match_id, match_info_pair[0]]
 
     match_header = global_driver.find_element(By.CLASS_NAME, 'match-header-vs')
     teams = match_header.find_elements(By.CLASS_NAME, 'wf-title-med')
@@ -221,10 +233,12 @@ def get_player_stats_on_map(map, df_players_stats, df_map_details, match_id):
 
     map_header = map_stats.find('div', class_='vm-stats-game-header')
     map_entry = get_map_details(map_header)
+    map_id = map_entry[1]
     map_entry[0] = match_id
     map_entry[2] = map_name_cleaned
     df_map_details.loc[len(df_map_details)] = map_entry
     map_entry = []
+    
 
     
     teams_stats_table = map_stats.find_all('table', class_='wf-table-inset mod-overview')
@@ -237,7 +251,7 @@ def get_player_stats_on_map(map, df_players_stats, df_map_details, match_id):
                 continue #skip header row
             else:
                 fields = row.find_all('td')
-                new_row = [match_id, map_name_cleaned]
+                new_row = [match_id, map_id, map_name_cleaned]
                 skip_fields = [7, 8, 9, 10, 13]
                 for idx, field in enumerate(fields):
                     if idx in skip_fields:
@@ -295,10 +309,10 @@ def get_player_stats_on_map(map, df_players_stats, df_map_details, match_id):
     return df_players_stats
 
 
-def get_player_and_match_stats(df_match_details, df_map_details, df_players_stats, matches_urls):
+def get_player_and_match_stats(df_match_details, df_map_details, df_players_stats, matches_info):
     
-    for match_url in matches_urls:
-        match_entry = get_match_details(match_url)
+    for match_info_pair in matches_info:
+        match_entry = get_match_details(match_info_pair)
         df_match_details.loc[len(df_match_details)] = match_entry
 
         stats_container = global_driver.find_element(By.CLASS_NAME, 'vm-stats')
@@ -316,22 +330,22 @@ def get_player_and_match_stats(df_match_details, df_map_details, df_players_stat
 df_vct_americas_season2_playoffs_match_details, df_vct_americas_season2_playoffs_map_details, df_vct_americas_season2_playoffs_player_stats = get_player_and_match_stats(df_vct_americas_season2_playoffs_match_details, 
                                                                                                                    df_vct_americas_season2_playoffs_map_details,
                                                                                                                    df_vct_americas_season2_playoffs_player_stats, 
-                                                                                                                   vct_americas_matches_urls)
+                                                                                                                   vct_americas_matches_info)
 
 df_vct_apac_season2_playoffs_match_details, df_vct_apac_season2_playoffs_map_details, df_vct_apac_season2_playoffs_player_stats = get_player_and_match_stats(df_vct_apac_season2_playoffs_match_details, 
                                                                                                                    df_vct_apac_season2_playoffs_map_details,
                                                                                                                    df_vct_apac_season2_playoffs_player_stats,
-                                                                                                                   vct_apac_matches_urls)
+                                                                                                                   vct_apac_matches_info)
 
 df_vct_emea_season2_playoffs_match_details, df_vct_emea_season2_playoffs_map_details, df_vct_emea_season2_playoffs_player_stats = get_player_and_match_stats(df_vct_emea_season2_playoffs_match_details,
                                                                                                                    df_vct_emea_season2_playoffs_map_details,
                                                                                                                    df_vct_emea_season2_playoffs_player_stats,
-                                                                                                                   vct_emea_matches_urls)
+                                                                                                                   vct_emea_matches_info)
 
 df_vct_china_season2_playoffs_match_details, df_vct_china_season2_playoffs_map_details, df_vct_china_season2_playoffs_player_stats = get_player_and_match_stats(df_vct_china_season2_playoffs_match_details,
                                                                                                                      df_vct_china_season2_playoffs_map_details,
                                                                                                                      df_vct_china_season2_playoffs_player_stats,
-                                                                                                                     vct_china_matches_urls)
+                                                                                                                     vct_china_matches_info)
     
 df_vct_americas_season2_playoffs_match_details.to_csv('./csvs/vct_americas_season2_playoffs_match_details.csv', index=False)
 df_vct_americas_season2_playoffs_map_details.to_csv('./csvs/vct_americas_season2_playoffs_map_details.csv', index=False)
