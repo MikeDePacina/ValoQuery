@@ -4,6 +4,7 @@ import requests
 from utils import player_stats_columns, match_columns, map_columns
 from urls import vct_apac_matches, vct_americas_matches, vct_emea_matches, vct_china_matches
 from scrappers import get_matches_dates_and_urls, get_player_and_match_stats
+from data import players_dict, teams_dict, agents_dict, maps_dict
 
 global_driver = webdriver.Chrome()
 
@@ -68,18 +69,35 @@ df_vct_americas_season2_playoffs_match_details.to_csv('./csvs/vct_americas_seaso
 df_vct_americas_season2_playoffs_map_details.to_csv('./csvs/vct_americas_season2_stage2_playoffs_map_details.csv', index=False)
 df_vct_americas_season2_playoffs_player_stats.to_csv('./csvs/vct_americas_season2_stage2_playoffs_player_stats.csv', index=False)
 
-df_vct_apac_season2_playoffs_match_details.to_csv('./csvs/vct_apac_season2_playoffs_match_details.csv', index=False)
-df_vct_apac_season2_playoffs_map_details.to_csv('./csvs/vct_apac_season2_playoffs_map_details.csv', index=False)
-df_vct_apac_season2_playoffs_player_stats.to_csv('./csvs/vct_apac_season2_playoffs_player_stats.csv', index=False)
+df_vct_apac_season2_playoffs_match_details.to_csv('./csvs/vct_apac_season2_stage2_playoffs_match_details.csv', index=False)
+df_vct_apac_season2_playoffs_map_details.to_csv('./csvs/vct_apac_season2_stage2_playoffs_map_details.csv', index=False)
+df_vct_apac_season2_playoffs_player_stats.to_csv('./csvs/vct_apac_season2_stage2_playoffs_player_stats.csv', index=False)
 
-df_vct_emea_season2_playoffs_match_details.to_csv('./csvs/vct_emea_season2_playoffs_match_details.csv', index=False)
-df_vct_emea_season2_playoffs_map_details.to_csv('./csvs/vct_emea_season2_playoffs_map_details.csv', index=False)
-df_vct_emea_season2_playoffs_player_stats.to_csv('./csvs/vct_emea_season2_playoffs_player_stats.csv', index=False)
+df_vct_emea_season2_playoffs_match_details.to_csv('./csvs/vct_emea_season2_stage2_playoffs_match_details.csv', index=False)
+df_vct_emea_season2_playoffs_map_details.to_csv('./csvs/vct_emea_season2_stage2_playoffs_map_details.csv', index=False)
+df_vct_emea_season2_playoffs_player_stats.to_csv('./csvs/vct_emea_season2_stage2_playoffs_player_stats.csv', index=False)
 
-df_vct_china_season2_playoffs_match_details.to_csv('./csvs/vct_china_season2_playoffs_match_details.csv', index=False)
-df_vct_china_season2_playoffs_map_details.to_csv('./csvs/vct_china_season2_playoffs_map_details.csv', index=False)
-df_vct_china_season2_playoffs_player_stats.to_csv('./csvs/vct_china_season2_playoffs_player_stats.csv', index=False)
-   
+df_vct_china_season2_playoffs_match_details.to_csv('./csvs/vct_china_season2_stage2_playoffs_match_details.csv', index=False)
+df_vct_china_season2_playoffs_map_details.to_csv('./csvs/vct_china_season2_stage2_playoffs_map_details.csv', index=False)
+df_vct_china_season2_playoffs_player_stats.to_csv('./csvs/vct_china_season2_stage2_playoffs_player_stats.csv', index=False)
+
+df_players = pd.DataFrame(players_dict.items(), columns=["player", "playerId"])
+df_players = df_players[["playerId", "player"]]
+df_players.to_csv('./csvs/players.csv', index=False)
+
+df_teams = pd.DataFrame(teams_dict.items(), columns=["team", "teamId"])
+df_teams = df_teams[["teamId", "team"]]
+df_teams.to_csv('./csvs/teams.csv', index=False)
+
+df_agents = pd.DataFrame(agents_dict.items(), columns=["agent", "agentId"])
+df_agents = df_agents[["agentId", "agent"]]
+df_agents.to_csv('./csvs/agents.csv', index=False)
+
+df_map = pd.DataFrame(maps_dict.items(), columns=["map", "mapId"])
+df_map = df_map[["mapId", "map"]]
+df_map.to_csv('./csvs/maps.csv', index=False)
+
+
 
 
 
