@@ -1,0 +1,231 @@
+MatchID,MapID,Map Name,PlayerID,Player Name,TeamID,Team Name,AgentID,Agent,Rating,Average Combat Score,Kills,Deaths,Assists,First Kills,First Deaths
+1,1,Abyss,1,heat,1,KRÜ Esports,17,kayo,1.71,301,26,12,15,3,1
+1,1,Abyss,2,Shyy,1,KRÜ Esports,7,cypher,1.07,223,20,16,4,3,1
+1,1,Abyss,3,Melser,1,KRÜ Esports,1,omen,0.99,194,17,16,8,1,4
+1,1,Abyss,4,mta,1,KRÜ Esports,10,sova,0.93,143,14,14,1,1,0
+1,1,Abyss,5,keznit,1,KRÜ Esports,14,jett,0.89,193,16,17,4,4,6
+1,1,Abyss,6,moose,2,Cloud9,8,killjoy,1.05,211,18,17,2,2,1
+1,1,Abyss,7,Xeppaa,2,Cloud9,17,kayo,0.94,211,16,18,10,1,1
+1,1,Abyss,8,vanity,2,Cloud9,1,omen,0.88,220,18,20,6,4,5
+1,1,Abyss,9,OXY,2,Cloud9,14,jett,0.80,198,16,21,4,5,5
+1,1,Abyss,10,runi,2,Cloud9,10,sova,0.56,105,7,19,6,0,0
+1,2,Lotus,1,heat,1,KRÜ Esports,16,fade,1.47,246,25,15,9,5,0
+1,2,Lotus,3,Melser,1,KRÜ Esports,1,omen,1.23,206,18,14,10,1,2
+1,2,Lotus,5,keznit,1,KRÜ Esports,12,raze,1.11,253,21,19,4,6,3
+1,2,Lotus,2,Shyy,1,KRÜ Esports,8,killjoy,0.74,183,13,20,8,1,3
+1,2,Lotus,4,mta,1,KRÜ Esports,4,viper,0.54,149,11,21,5,1,2
+1,2,Lotus,7,Xeppaa,1,KRÜ Esports,19,gekko,1.18,199,18,16,8,0,1
+1,2,Lotus,10,runi,1,KRÜ Esports,24,clove,1.03,256,22,20,8,3,3
+1,2,Lotus,8,vanity,1,KRÜ Esports,1,omen,0.94,162,14,16,8,1,2
+1,2,Lotus,6,moose,1,KRÜ Esports,8,killjoy,0.88,171,14,16,1,4,1
+1,2,Lotus,9,OXY,1,KRÜ Esports,12,raze,0.86,262,21,20,4,2,7
+1,3,Haven,2,Shyy,1,KRÜ Esports,7,cypher,1.50,238,16,9,13,3,1
+1,3,Haven,4,mta,1,KRÜ Esports,10,sova,1.43,283,21,12,2,1,1
+1,3,Haven,1,heat,1,KRÜ Esports,5,breach,1.36,185,14,9,8,0,1
+1,3,Haven,5,keznit,1,KRÜ Esports,18,neon,1.34,224,14,9,9,3,4
+1,3,Haven,3,Melser,1,KRÜ Esports,1,omen,1.14,209,14,13,12,4,1
+1,3,Haven,6,moose,2,Cloud9,8,killjoy,0.95,205,15,14,1,2,4
+1,3,Haven,10,runi,2,Cloud9,10,sova,0.80,199,11,14,3,2,1
+1,3,Haven,7,Xeppaa,2,Cloud9,5,breach,0.69,140,8,17,11,0,0
+1,3,Haven,9,OXY,2,Cloud9,14,jett,0.68,209,14,17,0,4,3
+1,3,Haven,8,vanity,2,Cloud9,1,omen,0.46,82,4,17,8,0,3
+2,3,Haven,11,TenZ,4,Sentinels,1,omen,1.04,254,16,15,6,2,4
+2,3,Haven,12,johnqt,4,Sentinels,8,killjoy,0.93,223,16,16,1,0,1
+2,3,Haven,13,Sacy,4,Sentinels,10,sova,0.86,152,9,14,6,1,5
+2,3,Haven,14,Zellsis,4,Sentinels,5,breach,0.82,134,10,13,6,0,1
+2,3,Haven,15,zekken,4,Sentinels,14,jett,0.60,166,11,18,5,3,3
+2,3,Haven,16,Asuna,4,Sentinels,21,yoru,1.39,273,22,11,7,5,2
+2,3,Haven,17,eeiu,4,Sentinels,10,sova,1.27,202,13,10,11,2,1
+2,3,Haven,18,bang,4,Sentinels,1,omen,1.13,173,12,10,8,1,0
+2,3,Haven,19,Boostio,4,Sentinels,7,cypher,1.09,228,16,16,8,3,2
+2,3,Haven,20,Cryocells,4,Sentinels,23,iso,1.02,199,13,15,6,3,1
+2,4,Ascent,15,zekken,4,Sentinels,14,jett,1.31,355,28,19,2,7,7
+2,4,Ascent,13,Sacy,4,Sentinels,10,sova,0.94,190,15,15,4,0,1
+2,4,Ascent,11,TenZ,4,Sentinels,1,omen,0.91,206,15,17,10,2,2
+2,4,Ascent,12,johnqt,4,Sentinels,22,deadlock,0.87,151,12,18,7,1,2
+2,4,Ascent,14,Zellsis,4,Sentinels,7,cypher,0.79,148,12,15,5,0,1
+2,4,Ascent,18,bang,4,Sentinels,1,omen,1.94,347,31,12,8,5,1
+2,4,Ascent,20,Cryocells,4,Sentinels,14,jett,1.13,250,23,16,3,4,2
+2,4,Ascent,17,eeiu,4,Sentinels,10,sova,0.90,139,11,13,8,1,0
+2,4,Ascent,16,Asuna,4,Sentinels,17,kayo,0.76,173,14,21,13,2,2
+2,4,Ascent,19,Boostio,4,Sentinels,8,killjoy,0.37,88,5,20,6,1,5
+3,5,Icebox,21,aspas,5,LEVIATÁN,14,jett,1.80,357,22,6,1,3,0
+3,5,Icebox,22,tex,5,LEVIATÁN,8,killjoy,1.79,329,19,7,3,4,1
+3,5,Icebox,23,kiNgg,5,LEVIATÁN,4,viper,1.36,207,12,6,6,1,1
+3,5,Icebox,24,C0M,5,LEVIATÁN,10,sova,1.08,130,6,6,7,2,0
+3,5,Icebox,25,Mazino,5,LEVIATÁN,20,harbor,1.08,192,10,8,4,2,1
+3,5,Icebox,2,Shyy,1,KRÜ Esports,8,killjoy,0.77,182,9,13,0,0,1
+3,5,Icebox,3,Melser,1,KRÜ Esports,4,viper,0.62,154,8,14,3,1,2
+3,5,Icebox,4,mta,1,KRÜ Esports,10,sova,0.53,99,5,14,2,0,1
+3,5,Icebox,5,keznit,1,KRÜ Esports,14,jett,0.43,173,8,14,1,2,5
+3,5,Icebox,1,heat,1,KRÜ Esports,17,kayo,0.26,62,3,14,1,0,3
+3,8,Sunset,23,kiNgg,5,LEVIATÁN,1,omen,1.55,231,17,5,5,1,0
+3,8,Sunset,21,aspas,5,LEVIATÁN,18,neon,1.52,302,18,9,5,8,0
+3,8,Sunset,22,tex,5,LEVIATÁN,7,cypher,1.39,242,18,8,4,2,1
+3,8,Sunset,24,C0M,5,LEVIATÁN,10,sova,1.29,215,12,7,8,1,1
+3,8,Sunset,25,Mazino,5,LEVIATÁN,5,breach,1.26,195,11,9,14,2,1
+3,8,Sunset,5,keznit,1,KRÜ Esports,18,neon,0.79,208,11,16,4,2,6
+3,8,Sunset,3,Melser,1,KRÜ Esports,1,omen,0.79,147,7,14,9,0,2
+3,8,Sunset,4,mta,1,KRÜ Esports,10,sova,0.64,105,6,14,3,0,1
+3,8,Sunset,1,heat,1,KRÜ Esports,5,breach,0.54,98,6,16,4,0,2
+3,8,Sunset,2,Shyy,1,KRÜ Esports,7,cypher,0.49,162,8,16,3,1,3
+4,2,Lotus,26,JonahP,6,G2 Esports,4,viper,1.96,342,24,7,4,2,0
+4,2,Lotus,27,leaf,6,G2 Esports,8,killjoy,1.40,247,19,9,3,2,0
+4,2,Lotus,28,trent,6,G2 Esports,16,fade,1.38,223,13,9,9,5,1
+4,2,Lotus,29,valyn,6,G2 Esports,1,omen,1.21,213,13,12,9,1,0
+4,2,Lotus,30,icy,6,G2 Esports,12,raze,0.61,120,7,14,3,2,4
+4,2,Lotus,19,Boostio,3,100 Thieves,8,killjoy,1.20,249,16,14,6,2,1
+4,2,Lotus,18,bang,3,100 Thieves,4,viper,0.89,188,10,13,7,1,3
+4,2,Lotus,17,eeiu,3,100 Thieves,16,fade,0.65,151,10,16,5,1,1
+4,2,Lotus,20,Cryocells,3,100 Thieves,1,omen,0.45,161,10,17,4,1,1
+4,2,Lotus,16,Asuna,3,100 Thieves,12,raze,0.23,96,5,17,1,1,7
+4,1,Abyss,28,trent,6,G2 Esports,10,sova,1.39,255,21,14,11,2,2
+4,1,Abyss,29,valyn,6,G2 Esports,13,astra,1.36,219,20,13,8,1,0
+4,1,Abyss,27,leaf,6,G2 Esports,8,killjoy,1.00,214,19,16,2,2,1
+4,1,Abyss,30,icy,6,G2 Esports,21,yoru,0.93,199,15,18,8,5,4
+4,1,Abyss,26,JonahP,6,G2 Esports,4,viper,0.79,183,15,19,4,3,2
+4,1,Abyss,20,Cryocells,3,100 Thieves,14,jett,1.00,312,25,19,1,3,5
+4,1,Abyss,16,Asuna,3,100 Thieves,19,gekko,0.96,202,15,19,10,2,1
+4,1,Abyss,18,bang,3,100 Thieves,1,omen,0.91,208,19,18,9,2,1
+4,1,Abyss,17,eeiu,3,100 Thieves,10,sova,0.82,151,11,16,6,0,1
+4,1,Abyss,19,Boostio,3,100 Thieves,7,cypher,0.63,129,10,19,8,3,6
+5,5,Icebox,21,aspas,5,LEVIATÁN,14,jett,1.13,230,17,14,5,3,1
+5,5,Icebox,22,tex,5,LEVIATÁN,8,killjoy,1.07,243,18,15,7,3,2
+5,5,Icebox,23,kiNgg,5,LEVIATÁN,4,viper,0.99,231,17,15,7,2,1
+5,5,Icebox,24,C0M,5,LEVIATÁN,10,sova,0.86,191,13,15,4,3,3
+5,5,Icebox,25,Mazino,5,LEVIATÁN,20,harbor,0.62,185,13,20,10,2,1
+5,5,Icebox,26,JonahP,6,G2 Esports,4,viper,1.28,314,21,16,10,2,3
+5,5,Icebox,30,icy,6,G2 Esports,19,gekko,1.17,185,17,14,4,0,0
+5,5,Icebox,28,trent,6,G2 Esports,10,sova,1.06,182,13,13,6,2,2
+5,5,Icebox,29,valyn,6,G2 Esports,20,harbor,0.88,153,13,16,4,1,4
+5,5,Icebox,27,leaf,6,G2 Esports,8,killjoy,0.68,221,15,19,5,3,4
+5,6,Bind,23,kiNgg,5,LEVIATÁN,4,viper,1.46,345,23,13,5,5,1
+5,6,Bind,21,aspas,5,LEVIATÁN,12,raze,1.36,294,22,13,0,3,3
+5,6,Bind,25,Mazino,5,LEVIATÁN,3,brimstone,0.75,166,10,16,7,1,0
+5,6,Bind,22,tex,5,LEVIATÁN,19,gekko,0.63,107,7,14,5,1,2
+5,6,Bind,24,C0M,5,LEVIATÁN,16,fade,0.45,85,5,16,8,1,2
+5,6,Bind,29,valyn,6,G2 Esports,3,brimstone,1.32,260,18,12,9,2,1
+5,6,Bind,26,JonahP,6,G2 Esports,15,skye,1.12,231,17,14,6,2,3
+5,6,Bind,27,leaf,6,G2 Esports,4,viper,1.02,191,13,13,4,2,0
+5,6,Bind,30,icy,6,G2 Esports,12,raze,0.96,228,15,14,4,2,2
+5,6,Bind,28,trent,6,G2 Esports,19,gekko,0.72,126,9,14,6,0,5
+6,5,Icebox,3,Melser,1,KRÜ Esports,4,viper,1.36,256,21,14,4,4,0
+6,5,Icebox,2,Shyy,1,KRÜ Esports,8,killjoy,0.97,175,16,15,2,1,0
+6,5,Icebox,5,keznit,1,KRÜ Esports,14,jett,0.92,214,15,19,5,5,3
+6,5,Icebox,1,heat,1,KRÜ Esports,17,kayo,0.74,154,11,18,9,2,3
+6,5,Icebox,4,mta,1,KRÜ Esports,10,sova,0.55,124,8,18,9,0,4
+6,5,Icebox,20,Cryocells,1,KRÜ Esports,14,jett,1.54,324,27,14,4,7,2
+6,5,Icebox,17,eeiu,1,KRÜ Esports,10,sova,1.22,211,18,13,4,0,1
+6,5,Icebox,16,Asuna,1,KRÜ Esports,19,gekko,1.21,213,16,12,7,1,1
+6,5,Icebox,18,bang,1,KRÜ Esports,4,viper,0.77,143,11,16,7,1,3
+6,5,Icebox,19,Boostio,1,KRÜ Esports,8,killjoy,0.76,176,12,16,5,1,5
+6,2,Lotus,2,Shyy,1,KRÜ Esports,8,killjoy,1.32,300,25,17,7,2,1
+6,2,Lotus,1,heat,1,KRÜ Esports,16,fade,1.27,223,22,15,3,3,2
+6,2,Lotus,4,mta,1,KRÜ Esports,4,viper,1.05,171,15,14,4,3,1
+6,2,Lotus,3,Melser,1,KRÜ Esports,1,omen,0.95,126,11,14,7,2,2
+6,2,Lotus,5,keznit,1,KRÜ Esports,12,raze,0.92,191,15,18,8,4,5
+6,2,Lotus,19,Boostio,3,100 Thieves,8,killjoy,1.01,244,20,19,3,2,2
+6,2,Lotus,18,bang,3,100 Thieves,4,viper,0.99,238,18,19,9,2,3
+6,2,Lotus,20,Cryocells,3,100 Thieves,1,omen,0.95,190,18,16,2,1,3
+6,2,Lotus,17,eeiu,3,100 Thieves,16,fade,0.89,151,13,16,9,1,0
+6,2,Lotus,16,Asuna,3,100 Thieves,12,raze,0.59,127,8,18,7,4,5
+6,4,Ascent,3,Melser,1,KRÜ Esports,1,omen,1.22,219,17,15,11,2,0
+6,4,Ascent,4,mta,1,KRÜ Esports,10,sova,1.15,217,19,16,7,2,4
+6,4,Ascent,2,Shyy,1,KRÜ Esports,8,killjoy,1.05,206,18,17,5,2,2
+6,4,Ascent,5,keznit,1,KRÜ Esports,14,jett,0.93,199,16,18,4,7,4
+6,4,Ascent,1,heat,1,KRÜ Esports,17,kayo,0.83,157,13,18,10,0,1
+6,4,Ascent,17,eeiu,3,100 Thieves,10,sova,1.18,215,17,15,9,1,1
+6,4,Ascent,18,bang,3,100 Thieves,1,omen,1.07,211,17,16,12,0,1
+6,4,Ascent,16,Asuna,3,100 Thieves,17,kayo,1.00,219,17,19,20,1,1
+6,4,Ascent,20,Cryocells,3,100 Thieves,14,jett,1.00,229,20,17,3,7,7
+6,4,Ascent,19,Boostio,3,100 Thieves,8,killjoy,0.82,159,13,16,2,2,3
+7,5,Icebox,21,aspas,5,LEVIATÁN,14,jett,2.01,362,22,6,2,5,1
+7,5,Icebox,22,tex,5,LEVIATÁN,8,killjoy,1.60,285,17,7,3,3,0
+7,5,Icebox,25,Mazino,5,LEVIATÁN,20,harbor,1.41,221,14,8,9,1,1
+7,5,Icebox,24,C0M,5,LEVIATÁN,10,sova,1.21,134,6,6,11,2,1
+7,5,Icebox,23,kiNgg,5,LEVIATÁN,4,viper,1.16,168,10,7,1,2,0
+7,5,Icebox,2,Shyy,1,KRÜ Esports,8,killjoy,0.58,170,9,14,1,0,3
+7,5,Icebox,4,mta,1,KRÜ Esports,10,sova,0.56,151,8,16,0,2,2
+7,5,Icebox,5,keznit,1,KRÜ Esports,9,reyna,0.45,111,5,13,2,1,4
+7,5,Icebox,1,heat,1,KRÜ Esports,19,gekko,0.44,103,6,13,1,0,2
+7,5,Icebox,3,Melser,1,KRÜ Esports,4,viper,0.43,103,6,13,2,0,2
+7,3,Haven,24,C0M,5,LEVIATÁN,10,sova,1.18,273,23,18,6,3,2
+7,3,Haven,25,Mazino,5,LEVIATÁN,5,breach,1.02,253,22,18,8,2,1
+7,3,Haven,21,aspas,5,LEVIATÁN,18,neon,0.93,161,13,18,8,3,3
+7,3,Haven,23,kiNgg,5,LEVIATÁN,1,omen,0.89,198,17,18,8,3,2
+7,3,Haven,22,tex,5,LEVIATÁN,7,cypher,0.80,164,12,18,11,2,3
+7,3,Haven,2,Shyy,1,KRÜ Esports,7,cypher,1.31,260,20,15,8,4,0
+7,3,Haven,5,keznit,1,KRÜ Esports,18,neon,1.22,320,27,20,4,5,5
+7,3,Haven,1,heat,1,KRÜ Esports,5,breach,1.12,186,16,15,11,0,2
+7,3,Haven,3,Melser,1,KRÜ Esports,1,omen,0.98,161,13,18,18,0,3
+7,3,Haven,4,mta,1,KRÜ Esports,10,sova,0.74,159,14,19,4,2,3
+7,8,Sunset,25,Mazino,5,LEVIATÁN,5,breach,1.10,283,20,17,9,2,1
+7,8,Sunset,24,C0M,5,LEVIATÁN,10,sova,0.92,193,13,14,8,0,4
+7,8,Sunset,22,tex,5,LEVIATÁN,7,cypher,0.85,142,11,13,2,2,2
+7,8,Sunset,23,kiNgg,5,LEVIATÁN,1,omen,0.68,171,10,16,7,3,3
+7,8,Sunset,21,aspas,5,LEVIATÁN,18,neon,0.58,115,6,17,5,2,1
+7,8,Sunset,1,heat,1,KRÜ Esports,5,breach,1.56,258,19,10,12,2,1
+7,8,Sunset,5,keznit,1,KRÜ Esports,18,neon,1.35,275,19,15,8,5,2
+7,8,Sunset,2,Shyy,1,KRÜ Esports,7,cypher,1.25,223,17,11,6,1,3
+7,8,Sunset,3,Melser,1,KRÜ Esports,1,omen,0.98,161,11,11,8,0,3
+7,8,Sunset,4,mta,1,KRÜ Esports,10,sova,0.97,159,11,13,3,3,0
+7,1,Abyss,21,aspas,5,LEVIATÁN,14,jett,1.45,294,24,14,2,8,1
+7,1,Abyss,25,Mazino,5,LEVIATÁN,20,harbor,1.38,259,21,15,7,2,1
+7,1,Abyss,23,kiNgg,5,LEVIATÁN,1,omen,1.05,172,13,15,14,1,0
+7,1,Abyss,22,tex,5,LEVIATÁN,7,cypher,0.94,221,19,17,2,3,2
+7,1,Abyss,24,C0M,5,LEVIATÁN,10,sova,0.92,169,13,15,4,2,3
+7,1,Abyss,2,Shyy,1,KRÜ Esports,7,cypher,1.28,247,22,15,4,1,3
+7,1,Abyss,4,mta,1,KRÜ Esports,10,sova,1.12,261,21,17,5,2,3
+7,1,Abyss,1,heat,1,KRÜ Esports,17,kayo,0.66,169,13,21,10,1,3
+7,1,Abyss,5,keznit,1,KRÜ Esports,14,jett,0.66,143,12,19,2,1,5
+7,1,Abyss,3,Melser,1,KRÜ Esports,1,omen,0.53,110,7,19,10,2,2
+7,4,Ascent,21,aspas,5,LEVIATÁN,14,jett,1.49,320,25,15,4,6,1
+7,4,Ascent,25,Mazino,5,LEVIATÁN,22,deadlock,1.22,268,22,18,15,3,2
+7,4,Ascent,22,tex,5,LEVIATÁN,7,cypher,1.14,192,16,13,4,2,3
+7,4,Ascent,23,kiNgg,5,LEVIATÁN,1,omen,1.07,193,18,15,8,2,3
+7,4,Ascent,24,C0M,5,LEVIATÁN,10,sova,1.03,160,11,13,4,0,1
+7,4,Ascent,3,Melser,1,KRÜ Esports,1,omen,0.97,178,13,17,8,2,1
+7,4,Ascent,2,Shyy,1,KRÜ Esports,8,killjoy,0.89,223,18,19,6,0,3
+7,4,Ascent,5,keznit,1,KRÜ Esports,14,jett,0.82,203,18,18,3,3,3
+7,4,Ascent,1,heat,1,KRÜ Esports,17,kayo,0.70,188,15,19,8,5,5
+7,4,Ascent,4,mta,1,KRÜ Esports,10,sova,0.57,135,10,19,3,0,1
+8,2,Lotus,29,valyn,6,G2 Esports,1,omen,1.13,222,23,19,15,1,3
+8,2,Lotus,27,leaf,6,G2 Esports,8,killjoy,0.86,202,16,21,6,3,3
+8,2,Lotus,30,icy,6,G2 Esports,12,raze,0.77,171,16,22,6,6,6
+8,2,Lotus,28,trent,6,G2 Esports,16,fade,0.70,148,12,22,15,1,3
+8,2,Lotus,26,JonahP,6,G2 Esports,4,viper,0.68,157,15,24,4,0,2
+8,2,Lotus,25,Mazino,5,LEVIATÁN,5,breach,1.72,325,34,15,13,4,1
+8,2,Lotus,21,aspas,5,LEVIATÁN,18,neon,1.44,303,27,18,10,5,3
+8,2,Lotus,23,kiNgg,5,LEVIATÁN,1,omen,1.03,149,13,16,19,4,3
+8,2,Lotus,22,tex,5,LEVIATÁN,7,cypher,1.00,181,19,18,3,2,2
+8,2,Lotus,24,C0M,5,LEVIATÁN,16,fade,0.98,147,15,15,12,2,2
+8,3,Haven,27,leaf,6,G2 Esports,8,killjoy,1.09,234,24,24,9,4,3
+8,3,Haven,26,JonahP,6,G2 Esports,5,breach,1.08,215,23,21,18,0,0
+8,3,Haven,28,trent,6,G2 Esports,10,sova,0.94,180,20,20,9,0,1
+8,3,Haven,29,valyn,6,G2 Esports,1,omen,0.92,147,15,24,19,5,6
+8,3,Haven,30,icy,6,G2 Esports,14,jett,0.77,192,18,24,6,3,8
+8,3,Haven,24,C0M,5,LEVIATÁN,10,sova,1.37,270,28,17,10,4,0
+8,3,Haven,25,Mazino,5,LEVIATÁN,5,breach,1.19,230,23,22,19,2,1
+8,3,Haven,22,tex,5,LEVIATÁN,7,cypher,1.16,206,23,18,8,3,2
+8,3,Haven,23,kiNgg,5,LEVIATÁN,1,omen,1.04,172,19,19,18,3,2
+8,3,Haven,21,aspas,5,LEVIATÁN,18,neon,0.82,186,20,24,10,6,7
+8,6,Bind,27,leaf,6,G2 Esports,4,viper,1.57,326,25,14,12,3,1
+8,6,Bind,26,JonahP,6,G2 Esports,15,skye,1.26,216,18,13,6,1,3
+8,6,Bind,30,icy,6,G2 Esports,12,raze,1.15,257,21,15,4,5,2
+8,6,Bind,28,trent,6,G2 Esports,19,gekko,0.88,125,9,16,11,2,0
+8,6,Bind,29,valyn,6,G2 Esports,3,brimstone,0.61,158,12,19,6,2,3
+8,6,Bind,25,Mazino,5,LEVIATÁN,3,brimstone,1.13,272,18,17,8,4,1
+8,6,Bind,24,C0M,5,LEVIATÁN,16,fade,0.99,203,15,16,9,1,2
+8,6,Bind,23,kiNgg,5,LEVIATÁN,4,viper,0.86,202,18,19,3,1,2
+8,6,Bind,21,aspas,5,LEVIATÁN,12,raze,0.80,138,12,16,1,3,6
+8,6,Bind,22,tex,5,LEVIATÁN,19,gekko,0.79,181,14,17,7,0,2
+8,4,Ascent,29,valyn,6,G2 Esports,1,omen,1.00,286,15,15,3,5,0
+8,4,Ascent,30,icy,6,G2 Esports,14,jett,0.56,81,5,14,4,0,2
+8,4,Ascent,26,JonahP,6,G2 Esports,17,kayo,0.47,112,6,16,6,1,2
+8,4,Ascent,27,leaf,6,G2 Esports,8,killjoy,0.41,71,5,15,1,1,3
+8,4,Ascent,28,trent,6,G2 Esports,10,sova,0.41,125,4,16,6,1,2
+8,4,Ascent,21,aspas,5,LEVIATÁN,14,jett,1.83,330,22,7,1,5,1
+8,4,Ascent,23,kiNgg,5,LEVIATÁN,1,omen,1.62,237,15,5,7,2,0
+8,4,Ascent,22,tex,5,LEVIATÁN,7,cypher,1.35,201,13,5,3,0,2
+8,4,Ascent,24,C0M,5,LEVIATÁN,10,sova,1.19,186,11,8,6,0,1
+8,4,Ascent,25,Mazino,5,LEVIATÁN,22,deadlock,1.09,216,15,10,3,2,4

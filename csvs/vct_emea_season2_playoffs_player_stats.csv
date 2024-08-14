@@ -1,231 +1,231 @@
-MatchID,MapID,Map Name,Player,Team,Agent,Rating,Average Combat Score,Kills,Deaths,Assists,First Kills,First Deaths
-17,46,Haven,Sayf,VIT,jett,1.18,258,19,15,3,5,3
-17,46,Haven,Kicks,VIT,breach,0.93,186,14,14,7,2,1
-17,46,Haven,trexx,VIT,sova,0.89,200,14,15,10,0,5
-17,46,Haven,runneR,VIT,cypher,0.74,172,15,17,2,0,1
-17,46,Haven,ceNder,VIT,omen,0.59,131,8,16,8,1,3
-17,46,Haven,Shao,NAVI,sova,1.56,268,22,12,4,2,0
-17,46,Haven,ardiis,NAVI,yoru,1.39,254,19,14,9,2,0
-17,46,Haven,Zyppan,NAVI,neon,1.05,250,17,16,4,5,4
-17,46,Haven,SUYGETSU,NAVI,cypher,1.01,138,11,12,4,2,1
-17,46,Haven,ANGE1,NAVI,omen,0.60,103,8,16,8,2,3
-17,47,Sunset,Sayf,VIT,neon,1.61,319,21,10,4,1,3
-17,47,Sunset,Kicks,VIT,kayo,1.56,227,14,8,17,2,1
-17,47,Sunset,trexx,VIT,sova,1.49,258,17,8,5,2,0
-17,47,Sunset,ceNder,VIT,omen,1.18,219,13,11,7,4,1
-17,47,Sunset,runneR,VIT,cypher,0.84,137,11,9,0,2,2
-17,47,Sunset,Zyppan,NAVI,neon,0.86,203,12,14,4,1,1
-17,47,Sunset,ardiis,NAVI,kayo,0.71,117,6,15,9,1,1
-17,47,Sunset,SUYGETSU,NAVI,cypher,0.66,116,7,16,4,0,1
-17,47,Sunset,Shao,NAVI,sova,0.65,204,14,15,1,2,4
-17,47,Sunset,ANGE1,NAVI,omen,0.57,120,7,16,4,3,4
-17,48,Ascent,trexx,VIT,sova,1.50,292,22,12,5,1,3
-17,48,Ascent,Kicks,VIT,kayo,1.36,279,20,13,10,2,0
-17,48,Ascent,ceNder,VIT,omen,1.15,146,10,10,13,1,3
-17,48,Ascent,Sayf,VIT,jett,0.98,176,13,13,2,1,5
-17,48,Ascent,runneR,VIT,killjoy,0.95,166,11,13,6,3,1
-17,48,Ascent,SUYGETSU,NAVI,cypher,1.05,174,15,13,3,1,1
-17,48,Ascent,Zyppan,NAVI,kayo,0.92,209,15,16,11,2,2
-17,48,Ascent,ardiis,NAVI,jett,0.81,158,11,14,3,4,3
-17,48,Ascent,Shao,NAVI,omen,0.71,168,11,17,8,2,2
-17,48,Ascent,ANGE1,NAVI,sova,0.61,130,9,16,1,3,0
-18,49,Icebox,Alfajer,FNC,killjoy,1.08,201,16,13,1,4,2
-18,49,Icebox,Boaster,FNC,viper,0.87,192,13,14,5,0,2
-18,49,Icebox,Chronicle,FNC,sova,0.86,137,9,11,5,0,1
-18,49,Icebox,Derke,FNC,iso,0.77,198,13,17,2,4,4
-18,49,Icebox,hiro,FNC,gekko,0.61,85,5,14,5,0,3
-18,49,Icebox,N4RRATE,KC,jett,1.52,337,24,14,2,6,0
-18,49,Icebox,sh1n,KC,viper,1.40,201,15,8,4,2,1
-18,49,Icebox,tomaszy,KC,killjoy,0.97,154,11,10,0,1,2
-18,49,Icebox,MAGNUM,KC,sova,0.96,143,10,11,3,2,2
-18,49,Icebox,marteen,KC,gekko,0.83,117,9,13,6,1,3
-18,50,Sunset,hiro,FNC,cypher,1.29,283,30,18,5,2,6
-18,50,Sunset,Alfajer,FNC,breach,1.18,225,24,20,7,2,1
-18,50,Sunset,Chronicle,FNC,sova,0.93,191,16,20,11,1,0
-18,50,Sunset,Derke,FNC,raze,0.91,182,19,18,3,3,4
-18,50,Sunset,Boaster,FNC,astra,0.81,160,14,21,9,3,6
-18,50,Sunset,marteen,KC,raze,1.12,209,24,18,0,4,2
-18,50,Sunset,sh1n,KC,omen,1.08,230,21,21,9,7,0
-18,50,Sunset,MAGNUM,KC,breach,0.93,179,17,21,15,3,2
-18,50,Sunset,N4RRATE,KC,jett,0.92,203,19,22,9,3,4
-18,50,Sunset,tomaszy,KC,cypher,0.75,162,16,21,7,0,3
-18,51,Lotus,hiro,FNC,fade,1.18,196,15,10,5,1,2
-18,51,Lotus,Chronicle,FNC,viper,1.12,278,19,13,7,1,1
-18,51,Lotus,Boaster,FNC,omen,1.04,189,15,13,10,0,3
-18,51,Lotus,Alfajer,FNC,killjoy,1.00,240,15,13,2,2,0
-18,51,Lotus,Derke,FNC,raze,0.73,210,13,14,3,4,5
-18,51,Lotus,N4RRATE,KC,fade,1.46,293,20,13,10,2,0
-18,51,Lotus,marteen,KC,yoru,1.20,286,19,17,7,5,4
-18,51,Lotus,tomaszy,KC,cypher,0.90,162,11,15,5,1,0
-18,51,Lotus,sh1n,KC,omen,0.84,143,9,16,11,1,2
-18,51,Lotus,MAGNUM,KC,sova,0.50,76,4,16,4,2,2
-19,52,Icebox,Boo,TH,viper,1.25,218,20,15,11,1,1
-19,52,Icebox,benjyfishy,TH,killjoy,1.12,202,20,15,2,1,2
-19,52,Icebox,RieNs,TH,sova,0.95,158,12,16,12,0,1
-19,52,Icebox,MiniBoo,TH,neon,0.85,202,18,20,10,7,6
-19,52,Icebox,Wo0t,TH,gekko,0.84,199,20,19,5,4,2
-19,52,Icebox,trexx,VIT,sova,1.33,284,23,18,11,4,2
-19,52,Icebox,ceNder,VIT,viper,0.99,145,15,16,7,1,3
-19,52,Icebox,Kicks,VIT,gekko,0.95,174,15,19,9,2,3
-19,52,Icebox,runneR,VIT,killjoy,0.93,189,16,18,7,4,1
-19,52,Icebox,Sayf,VIT,jett,0.90,183,16,19,4,1,4
-19,53,Sunset,Boo,TH,omen,1.27,222,19,15,10,4,2
-19,53,Sunset,MiniBoo,TH,neon,1.04,261,22,19,3,6,1
-19,53,Sunset,benjyfishy,TH,cypher,1.00,153,13,15,3,1,2
-19,53,Sunset,RieNs,TH,sova,0.90,169,12,16,7,1,4
-19,53,Sunset,Wo0t,TH,kayo,0.75,109,8,19,15,1,1
-19,53,Sunset,Sayf,VIT,neon,1.42,299,27,16,5,5,3
-19,53,Sunset,trexx,VIT,sova,1.17,199,14,12,15,0,1
-19,53,Sunset,Kicks,VIT,kayo,1.12,210,19,14,10,1,2
-19,53,Sunset,runneR,VIT,cypher,0.87,177,15,15,8,3,2
-19,53,Sunset,ceNder,VIT,omen,0.67,109,9,17,11,1,5
-19,54,Bind,RieNs,TH,gekko,1.35,294,26,16,8,3,4
-19,54,Bind,Boo,TH,brimstone,1.27,217,21,17,9,0,2
-19,54,Bind,benjyfishy,TH,viper,0.96,171,16,18,6,2,2
-19,54,Bind,MiniBoo,TH,raze,0.85,191,15,20,6,3,4
-19,54,Bind,Wo0t,TH,fade,0.80,158,14,21,11,2,4
-19,54,Bind,trexx,VIT,fade,1.22,224,22,16,10,1,3
-19,54,Bind,Sayf,VIT,raze,1.05,245,23,20,4,5,2
-19,54,Bind,runneR,VIT,viper,0.98,199,16,19,15,6,1
-19,54,Bind,ceNder,VIT,omen,0.98,206,19,19,10,3,2
-19,54,Bind,Kicks,VIT,gekko,0.81,130,12,18,9,1,2
-20,55,Sunset,MrFaliN,FUT,breach,1.14,211,21,16,14,2,3
-20,55,Sunset,yetujey,FUT,cypher,1.05,191,21,19,11,4,0
-20,55,Sunset,qRaxs,FUT,gekko,0.95,169,17,17,7,1,0
-20,55,Sunset,AtaKaptan,FUT,omen,0.94,164,18,17,7,3,5
-20,55,Sunset,cNed,FUT,raze,0.82,216,17,23,9,6,4
-20,55,Sunset,Chronicle,FNC,sova,1.30,188,18,13,6,4,0
-20,55,Sunset,Derke,FNC,raze,1.08,250,22,23,2,4,6
-20,55,Sunset,hiro,FNC,cypher,1.07,225,21,18,8,1,5
-20,55,Sunset,Alfajer,FNC,breach,1.04,182,18,19,7,1,1
-20,55,Sunset,Boaster,FNC,astra,0.77,137,13,21,5,2,4
-20,56,Haven,MrFaliN,FUT,sova,0.92,172,9,13,7,2,2
-20,56,Haven,yetujey,FUT,killjoy,0.87,202,10,14,4,1,2
-20,56,Haven,qRaxs,FUT,sage,0.78,130,10,12,4,1,2
-20,56,Haven,cNed,FUT,jett,0.76,174,10,14,1,0,3
-20,56,Haven,AtaKaptan,FUT,omen,0.59,145,9,17,5,2,3
-20,56,Haven,Alfajer,FNC,iso,1.79,370,26,9,1,2,1
-20,56,Haven,Boaster,FNC,omen,1.27,224,13,10,10,3,3
-20,56,Haven,Chronicle,FNC,sova,1.14,144,9,7,6,0,0
-20,56,Haven,Derke,FNC,yoru,1.03,187,12,11,3,4,1
-20,56,Haven,hiro,FNC,cypher,0.86,171,10,11,2,3,1
-21,57,Lotus,Sayf,VIT,raze,1.24,269,21,19,6,2,5
-21,57,Lotus,runneR,VIT,cypher,1.11,208,17,15,9,3,3
-21,57,Lotus,trexx,VIT,fade,1.01,188,15,17,13,2,3
-21,57,Lotus,ceNder,VIT,omen,0.82,153,14,20,5,1,5
-21,57,Lotus,Kicks,VIT,breach,0.76,112,10,19,7,0,0
-21,57,Lotus,Derke,FNC,raze,1.31,283,25,15,7,6,4
-21,57,Lotus,Chronicle,FNC,viper,1.15,240,19,16,10,2,0
-21,57,Lotus,hiro,FNC,fade,1.10,223,20,15,8,2,1
-21,57,Lotus,Alfajer,FNC,killjoy,0.82,141,14,14,1,2,2
-21,57,Lotus,Boaster,FNC,omen,0.81,164,12,17,10,4,1
-21,58,Sunset,Sayf,VIT,neon,1.32,285,18,13,8,3,4
-21,58,Sunset,Kicks,VIT,kayo,1.01,176,12,15,12,0,1
-21,58,Sunset,trexx,VIT,sova,0.95,206,13,14,4,3,0
-21,58,Sunset,runneR,VIT,cypher,0.68,150,9,15,5,1,2
-21,58,Sunset,ceNder,VIT,omen,0.59,95,6,16,8,1,4
-21,58,Sunset,Chronicle,FNC,sova,1.33,256,17,11,10,3,2
-21,58,Sunset,hiro,FNC,cypher,1.17,196,15,10,6,2,2
-21,58,Sunset,Boaster,FNC,astra,1.14,208,13,12,9,3,1
-21,58,Sunset,Alfajer,FNC,breach,1.10,182,12,11,11,1,0
-21,58,Sunset,Derke,FNC,raze,1.10,207,16,14,1,2,3
-22,59,Abyss,RieNs,TH,breach,1.39,264,21,13,18,1,0
-22,59,Abyss,Wo0t,TH,gekko,1.26,218,16,15,15,3,0
-22,59,Abyss,MiniBoo,TH,raze,1.25,252,21,14,3,6,6
-22,59,Abyss,Boo,TH,astra,1.02,179,16,14,5,1,1
-22,59,Abyss,benjyfishy,TH,cypher,0.77,121,11,16,4,2,3
-22,59,Abyss,qRaxs,FUT,gekko,0.98,223,18,15,4,0,1
-22,59,Abyss,yetujey,FUT,cypher,0.87,159,13,17,8,0,1
-22,59,Abyss,MrFaliN,FUT,deadlock,0.86,177,15,16,3,3,1
-22,59,Abyss,cNed,FUT,jett,0.86,219,17,19,2,5,5
-22,59,Abyss,AtaKaptan,FUT,omen,0.79,129,9,18,10,2,5
-22,60,Sunset,RieNs,TH,sova,1.12,183,17,15,4,1,0
-22,60,Sunset,Wo0t,TH,kayo,1.11,185,13,16,20,3,1
-22,60,Sunset,Boo,TH,omen,1.04,195,15,16,14,2,2
-22,60,Sunset,MiniBoo,TH,neon,1.03,230,18,20,5,5,7
-22,60,Sunset,benjyfishy,TH,cypher,1.02,236,22,17,3,2,1
-22,60,Sunset,yetujey,FUT,cypher,1.18,197,16,13,5,1,1
-22,60,Sunset,AtaKaptan,FUT,omen,1.17,280,23,19,7,4,2
-22,60,Sunset,MrFaliN,FUT,breach,0.98,189,17,16,10,0,1
-22,60,Sunset,cNed,FUT,raze,0.79,186,15,19,4,4,6
-22,60,Sunset,qRaxs,FUT,gekko,0.65,157,13,18,6,2,3
-23,61,Icebox,trexx,VIT,sova,0.92,221,13,14,7,1,4
-23,61,Icebox,ceNder,VIT,viper,0.86,212,16,16,2,1,1
-23,61,Icebox,Sayf,VIT,jett,0.76,194,13,17,2,3,3
-23,61,Icebox,Kicks,VIT,gekko,0.72,155,11,15,4,3,2
-23,61,Icebox,runneR,VIT,killjoy,0.70,198,10,18,7,0,1
-23,61,Icebox,RieNs,TH,sova,1.68,339,24,12,6,2,1
-23,61,Icebox,Wo0t,TH,gekko,1.56,301,21,14,11,4,0
-23,61,Icebox,MiniBoo,TH,neon,1.18,260,16,15,12,4,3
-23,61,Icebox,Boo,TH,viper,0.87,116,9,11,4,1,3
-23,61,Icebox,benjyfishy,TH,killjoy,0.76,103,10,11,0,0,1
-23,62,Sunset,runneR,VIT,cypher,1.63,296,20,8,5,4,0
-23,62,Sunset,ceNder,VIT,omen,1.37,224,13,9,12,0,4
-23,62,Sunset,trexx,VIT,sova,1.34,220,13,9,7,3,1
-23,62,Sunset,Sayf,VIT,neon,1.15,215,13,11,5,3,0
-23,62,Sunset,Kicks,VIT,kayo,0.99,174,11,12,8,1,1
-23,62,Sunset,Wo0t,TH,kayo,1.13,258,15,14,7,2,0
-23,62,Sunset,RieNs,TH,sova,0.79,175,10,13,7,0,2
-23,62,Sunset,Boo,TH,omen,0.71,142,9,15,9,0,1
-23,62,Sunset,MiniBoo,TH,neon,0.60,157,9,16,4,4,6
-23,62,Sunset,benjyfishy,TH,cypher,0.56,91,6,12,2,0,2
-23,63,Lotus,Sayf,VIT,raze,2.06,411,27,7,2,6,0
-23,63,Lotus,trexx,VIT,fade,1.42,215,12,6,10,2,1
-23,63,Lotus,ceNder,VIT,omen,1.33,224,15,10,8,2,2
-23,63,Lotus,runneR,VIT,cypher,1.15,194,12,7,1,0,3
-23,63,Lotus,Kicks,VIT,breach,0.89,183,9,11,13,0,0
-23,63,Lotus,MiniBoo,TH,neon,0.96,274,15,16,3,3,4
-23,63,Lotus,Wo0t,TH,fade,0.85,196,9,15,6,1,0
-23,63,Lotus,benjyfishy,TH,cypher,0.76,128,8,13,3,0,0
-23,63,Lotus,RieNs,TH,breach,0.60,126,7,15,10,0,2
-23,63,Lotus,Boo,TH,omen,0.14,58,2,16,4,2,4
-23,64,Haven,trexx,VIT,sova,1.41,242,18,13,12,1,0
-23,64,Haven,runneR,VIT,cypher,1.24,211,18,12,6,0,2
-23,64,Haven,Sayf,VIT,jett,1.22,257,20,14,6,5,7
-23,64,Haven,Kicks,VIT,breach,1.07,147,12,12,10,0,0
-23,64,Haven,ceNder,VIT,omen,0.73,130,9,18,15,2,5
-23,64,Haven,Wo0t,TH,breach,1.26,245,20,14,4,4,0
-23,64,Haven,benjyfishy,TH,cypher,0.99,170,14,14,3,2,3
-23,64,Haven,Boo,TH,omen,0.94,165,13,16,13,4,3
-23,64,Haven,RieNs,TH,sova,0.79,159,12,15,4,3,1
-23,64,Haven,MiniBoo,TH,neon,0.60,147,10,18,5,1,1
-24,65,Haven,Alfajer,FNC,iso,1.47,297,22,12,3,4,4
-24,65,Haven,Derke,FNC,yoru,1.33,278,21,13,5,6,3
-24,65,Haven,Boaster,FNC,omen,1.18,163,14,10,9,1,1
-24,65,Haven,hiro,FNC,cypher,1.18,217,17,15,7,0,1
-24,65,Haven,Chronicle,FNC,sova,1.06,141,11,10,7,0,1
-24,65,Haven,trexx,VIT,sova,0.98,187,13,15,4,0,0
-24,65,Haven,Kicks,VIT,breach,0.83,179,13,17,6,3,2
-24,65,Haven,ceNder,VIT,omen,0.70,152,12,18,6,1,1
-24,65,Haven,runneR,VIT,cypher,0.67,155,11,18,5,3,2
-24,65,Haven,Sayf,VIT,jett,0.66,141,11,17,1,3,6
-24,66,Ascent,Chronicle,FNC,sova,1.32,291,24,15,2,3,0
-24,66,Ascent,Alfajer,FNC,iso,0.89,207,15,16,5,1,4
-24,66,Ascent,hiro,FNC,cypher,0.86,140,11,15,8,2,3
-24,66,Ascent,Derke,FNC,yoru,0.80,193,14,18,7,2,4
-24,66,Ascent,Boaster,FNC,astra,0.71,120,10,15,6,2,1
-24,66,Ascent,Sayf,VIT,jett,1.40,253,21,12,3,3,2
-24,66,Ascent,trexx,VIT,sova,1.15,236,20,16,6,1,0
-24,66,Ascent,runneR,VIT,killjoy,1.07,207,14,15,10,3,2
-24,66,Ascent,Kicks,VIT,kayo,0.94,135,12,16,9,3,2
-24,66,Ascent,ceNder,VIT,omen,0.88,152,12,15,11,2,4
-24,67,Lotus,Alfajer,FNC,killjoy,1.32,239,22,15,3,4,2
-24,67,Lotus,Chronicle,FNC,viper,1.28,284,21,14,13,2,1
-24,67,Lotus,Derke,FNC,raze,1.03,197,14,15,7,3,2
-24,67,Lotus,Boaster,FNC,omen,1.00,154,11,14,16,3,4
-24,67,Lotus,hiro,FNC,fade,0.95,157,12,15,12,1,0
-24,67,Lotus,Kicks,VIT,breach,1.11,207,17,15,11,0,1
-24,67,Lotus,runneR,VIT,cypher,1.10,225,17,17,7,4,0
-24,67,Lotus,ceNder,VIT,omen,0.98,203,16,16,6,2,3
-24,67,Lotus,trexx,VIT,fade,0.84,156,11,16,12,1,3
-24,67,Lotus,Sayf,VIT,raze,0.70,182,12,17,5,2,6
-24,68,Bind,Chronicle,FNC,skye,1.61,228,14,5,8,1,1
-24,68,Bind,Boaster,FNC,viper,1.50,320,18,8,8,4,2
-24,68,Bind,hiro,FNC,gekko,1.35,192,12,7,5,2,1
-24,68,Bind,Derke,FNC,raze,1.18,199,13,11,4,1,1
-24,68,Bind,Alfajer,FNC,clove,1.18,233,14,10,10,2,1
-24,68,Bind,Kicks,VIT,gekko,0.88,192,10,14,4,1,2
-24,68,Bind,Sayf,VIT,raze,0.83,218,9,14,8,1,2
-24,68,Bind,ceNder,VIT,omen,0.61,111,7,15,5,2,4
-24,68,Bind,runneR,VIT,viper,0.57,161,7,14,4,1,1
-24,68,Bind,trexx,VIT,fade,0.57,159,7,14,3,1,1
+MatchID,MapID,Map Name,PlayerID,Player Name,TeamID,Team Name,AgentID,Agent,Rating,Average Combat Score,Kills,Deaths,Assists,First Kills,First Deaths
+17,3,Haven,91,Sayf,19,Team Vitality,14,jett,1.18,258,19,15,3,5,3
+17,3,Haven,92,Kicks,19,Team Vitality,5,breach,0.93,186,14,14,7,2,1
+17,3,Haven,93,trexx,19,Team Vitality,10,sova,0.89,200,14,15,10,0,5
+17,3,Haven,94,runneR,19,Team Vitality,7,cypher,0.74,172,15,17,2,0,1
+17,3,Haven,95,ceNder,19,Team Vitality,1,omen,0.59,131,8,16,8,1,3
+17,3,Haven,96,Shao,19,Team Vitality,10,sova,1.56,268,22,12,4,2,0
+17,3,Haven,97,ardiis,19,Team Vitality,21,yoru,1.39,254,19,14,9,2,0
+17,3,Haven,98,Zyppan,19,Team Vitality,18,neon,1.05,250,17,16,4,5,4
+17,3,Haven,99,SUYGETSU,19,Team Vitality,7,cypher,1.01,138,11,12,4,2,1
+17,3,Haven,100,ANGE1,19,Team Vitality,1,omen,0.60,103,8,16,8,2,3
+17,8,Sunset,91,Sayf,20,Natus Vincere,18,neon,1.61,319,21,10,4,1,3
+17,8,Sunset,92,Kicks,20,Natus Vincere,17,kayo,1.56,227,14,8,17,2,1
+17,8,Sunset,93,trexx,20,Natus Vincere,10,sova,1.49,258,17,8,5,2,0
+17,8,Sunset,95,ceNder,20,Natus Vincere,1,omen,1.18,219,13,11,7,4,1
+17,8,Sunset,94,runneR,20,Natus Vincere,7,cypher,0.84,137,11,9,0,2,2
+17,8,Sunset,98,Zyppan,20,Natus Vincere,18,neon,0.86,203,12,14,4,1,1
+17,8,Sunset,97,ardiis,20,Natus Vincere,17,kayo,0.71,117,6,15,9,1,1
+17,8,Sunset,99,SUYGETSU,20,Natus Vincere,7,cypher,0.66,116,7,16,4,0,1
+17,8,Sunset,96,Shao,20,Natus Vincere,10,sova,0.65,204,14,15,1,2,4
+17,8,Sunset,100,ANGE1,20,Natus Vincere,1,omen,0.57,120,7,16,4,3,4
+17,4,Ascent,93,trexx,20,Natus Vincere,10,sova,1.50,292,22,12,5,1,3
+17,4,Ascent,92,Kicks,20,Natus Vincere,17,kayo,1.36,279,20,13,10,2,0
+17,4,Ascent,95,ceNder,20,Natus Vincere,1,omen,1.15,146,10,10,13,1,3
+17,4,Ascent,91,Sayf,20,Natus Vincere,14,jett,0.98,176,13,13,2,1,5
+17,4,Ascent,94,runneR,20,Natus Vincere,8,killjoy,0.95,166,11,13,6,3,1
+17,4,Ascent,99,SUYGETSU,20,Natus Vincere,7,cypher,1.05,174,15,13,3,1,1
+17,4,Ascent,98,Zyppan,20,Natus Vincere,17,kayo,0.92,209,15,16,11,2,2
+17,4,Ascent,97,ardiis,20,Natus Vincere,14,jett,0.81,158,11,14,3,4,3
+17,4,Ascent,96,Shao,20,Natus Vincere,1,omen,0.71,168,11,17,8,2,2
+17,4,Ascent,100,ANGE1,20,Natus Vincere,10,sova,0.61,130,9,16,1,3,0
+18,5,Icebox,101,Alfajer,21,FNATIC,8,killjoy,1.08,201,16,13,1,4,2
+18,5,Icebox,102,Boaster,21,FNATIC,4,viper,0.87,192,13,14,5,0,2
+18,5,Icebox,103,Chronicle,21,FNATIC,10,sova,0.86,137,9,11,5,0,1
+18,5,Icebox,104,Derke,21,FNATIC,23,iso,0.77,198,13,17,2,4,4
+18,5,Icebox,105,hiro,21,FNATIC,19,gekko,0.61,85,5,14,5,0,3
+18,5,Icebox,106,N4RRATE,21,FNATIC,14,jett,1.52,337,24,14,2,6,0
+18,5,Icebox,107,sh1n,21,FNATIC,4,viper,1.40,201,15,8,4,2,1
+18,5,Icebox,108,tomaszy,21,FNATIC,8,killjoy,0.97,154,11,10,0,1,2
+18,5,Icebox,109,MAGNUM,21,FNATIC,10,sova,0.96,143,10,11,3,2,2
+18,5,Icebox,110,marteen,21,FNATIC,19,gekko,0.83,117,9,13,6,1,3
+18,8,Sunset,105,hiro,22,Karmine Corp,7,cypher,1.29,283,30,18,5,2,6
+18,8,Sunset,101,Alfajer,22,Karmine Corp,5,breach,1.18,225,24,20,7,2,1
+18,8,Sunset,103,Chronicle,22,Karmine Corp,10,sova,0.93,191,16,20,11,1,0
+18,8,Sunset,104,Derke,22,Karmine Corp,12,raze,0.91,182,19,18,3,3,4
+18,8,Sunset,102,Boaster,22,Karmine Corp,13,astra,0.81,160,14,21,9,3,6
+18,8,Sunset,110,marteen,22,Karmine Corp,12,raze,1.12,209,24,18,0,4,2
+18,8,Sunset,107,sh1n,22,Karmine Corp,1,omen,1.08,230,21,21,9,7,0
+18,8,Sunset,109,MAGNUM,22,Karmine Corp,5,breach,0.93,179,17,21,15,3,2
+18,8,Sunset,106,N4RRATE,22,Karmine Corp,14,jett,0.92,203,19,22,9,3,4
+18,8,Sunset,108,tomaszy,22,Karmine Corp,7,cypher,0.75,162,16,21,7,0,3
+18,2,Lotus,105,hiro,22,Karmine Corp,16,fade,1.18,196,15,10,5,1,2
+18,2,Lotus,103,Chronicle,22,Karmine Corp,4,viper,1.12,278,19,13,7,1,1
+18,2,Lotus,102,Boaster,22,Karmine Corp,1,omen,1.04,189,15,13,10,0,3
+18,2,Lotus,101,Alfajer,22,Karmine Corp,8,killjoy,1.00,240,15,13,2,2,0
+18,2,Lotus,104,Derke,22,Karmine Corp,12,raze,0.73,210,13,14,3,4,5
+18,2,Lotus,106,N4RRATE,22,Karmine Corp,16,fade,1.46,293,20,13,10,2,0
+18,2,Lotus,110,marteen,22,Karmine Corp,21,yoru,1.20,286,19,17,7,5,4
+18,2,Lotus,108,tomaszy,22,Karmine Corp,7,cypher,0.90,162,11,15,5,1,0
+18,2,Lotus,107,sh1n,22,Karmine Corp,1,omen,0.84,143,9,16,11,1,2
+18,2,Lotus,109,MAGNUM,22,Karmine Corp,10,sova,0.50,76,4,16,4,2,2
+19,5,Icebox,111,Boo,19,Team Vitality,4,viper,1.25,218,20,15,11,1,1
+19,5,Icebox,112,benjyfishy,19,Team Vitality,8,killjoy,1.12,202,20,15,2,1,2
+19,5,Icebox,113,RieNs,19,Team Vitality,10,sova,0.95,158,12,16,12,0,1
+19,5,Icebox,114,MiniBoo,19,Team Vitality,18,neon,0.85,202,18,20,10,7,6
+19,5,Icebox,115,Wo0t,19,Team Vitality,19,gekko,0.84,199,20,19,5,4,2
+19,5,Icebox,93,trexx,19,Team Vitality,10,sova,1.33,284,23,18,11,4,2
+19,5,Icebox,95,ceNder,19,Team Vitality,4,viper,0.99,145,15,16,7,1,3
+19,5,Icebox,92,Kicks,19,Team Vitality,19,gekko,0.95,174,15,19,9,2,3
+19,5,Icebox,94,runneR,19,Team Vitality,8,killjoy,0.93,189,16,18,7,4,1
+19,5,Icebox,91,Sayf,19,Team Vitality,14,jett,0.90,183,16,19,4,1,4
+19,8,Sunset,111,Boo,23,Team Heretics,1,omen,1.27,222,19,15,10,4,2
+19,8,Sunset,114,MiniBoo,23,Team Heretics,18,neon,1.04,261,22,19,3,6,1
+19,8,Sunset,112,benjyfishy,23,Team Heretics,7,cypher,1.00,153,13,15,3,1,2
+19,8,Sunset,113,RieNs,23,Team Heretics,10,sova,0.90,169,12,16,7,1,4
+19,8,Sunset,115,Wo0t,23,Team Heretics,17,kayo,0.75,109,8,19,15,1,1
+19,8,Sunset,91,Sayf,23,Team Heretics,18,neon,1.42,299,27,16,5,5,3
+19,8,Sunset,93,trexx,23,Team Heretics,10,sova,1.17,199,14,12,15,0,1
+19,8,Sunset,92,Kicks,23,Team Heretics,17,kayo,1.12,210,19,14,10,1,2
+19,8,Sunset,94,runneR,23,Team Heretics,7,cypher,0.87,177,15,15,8,3,2
+19,8,Sunset,95,ceNder,23,Team Heretics,1,omen,0.67,109,9,17,11,1,5
+19,6,Bind,113,RieNs,23,Team Heretics,19,gekko,1.35,294,26,16,8,3,4
+19,6,Bind,111,Boo,23,Team Heretics,3,brimstone,1.27,217,21,17,9,0,2
+19,6,Bind,112,benjyfishy,23,Team Heretics,4,viper,0.96,171,16,18,6,2,2
+19,6,Bind,114,MiniBoo,23,Team Heretics,12,raze,0.85,191,15,20,6,3,4
+19,6,Bind,115,Wo0t,23,Team Heretics,16,fade,0.80,158,14,21,11,2,4
+19,6,Bind,93,trexx,23,Team Heretics,16,fade,1.22,224,22,16,10,1,3
+19,6,Bind,91,Sayf,23,Team Heretics,12,raze,1.05,245,23,20,4,5,2
+19,6,Bind,94,runneR,23,Team Heretics,4,viper,0.98,199,16,19,15,6,1
+19,6,Bind,95,ceNder,23,Team Heretics,1,omen,0.98,206,19,19,10,3,2
+19,6,Bind,92,Kicks,23,Team Heretics,19,gekko,0.81,130,12,18,9,1,2
+20,8,Sunset,116,MrFaliN,24,FUT Esports,5,breach,1.14,211,21,16,14,2,3
+20,8,Sunset,117,yetujey,24,FUT Esports,7,cypher,1.05,191,21,19,11,4,0
+20,8,Sunset,118,qRaxs,24,FUT Esports,19,gekko,0.95,169,17,17,7,1,0
+20,8,Sunset,119,AtaKaptan,24,FUT Esports,1,omen,0.94,164,18,17,7,3,5
+20,8,Sunset,120,cNed,24,FUT Esports,12,raze,0.82,216,17,23,9,6,4
+20,8,Sunset,103,Chronicle,24,FUT Esports,10,sova,1.30,188,18,13,6,4,0
+20,8,Sunset,104,Derke,24,FUT Esports,12,raze,1.08,250,22,23,2,4,6
+20,8,Sunset,105,hiro,24,FUT Esports,7,cypher,1.07,225,21,18,8,1,5
+20,8,Sunset,101,Alfajer,24,FUT Esports,5,breach,1.04,182,18,19,7,1,1
+20,8,Sunset,102,Boaster,24,FUT Esports,13,astra,0.77,137,13,21,5,2,4
+20,3,Haven,116,MrFaliN,24,FUT Esports,10,sova,0.92,172,9,13,7,2,2
+20,3,Haven,117,yetujey,24,FUT Esports,8,killjoy,0.87,202,10,14,4,1,2
+20,3,Haven,118,qRaxs,24,FUT Esports,2,sage,0.78,130,10,12,4,1,2
+20,3,Haven,120,cNed,24,FUT Esports,14,jett,0.76,174,10,14,1,0,3
+20,3,Haven,119,AtaKaptan,24,FUT Esports,1,omen,0.59,145,9,17,5,2,3
+20,3,Haven,101,Alfajer,24,FUT Esports,23,iso,1.79,370,26,9,1,2,1
+20,3,Haven,102,Boaster,24,FUT Esports,1,omen,1.27,224,13,10,10,3,3
+20,3,Haven,103,Chronicle,24,FUT Esports,10,sova,1.14,144,9,7,6,0,0
+20,3,Haven,104,Derke,24,FUT Esports,21,yoru,1.03,187,12,11,3,4,1
+20,3,Haven,105,hiro,24,FUT Esports,7,cypher,0.86,171,10,11,2,3,1
+21,2,Lotus,91,Sayf,19,Team Vitality,12,raze,1.24,269,21,19,6,2,5
+21,2,Lotus,94,runneR,19,Team Vitality,7,cypher,1.11,208,17,15,9,3,3
+21,2,Lotus,93,trexx,19,Team Vitality,16,fade,1.01,188,15,17,13,2,3
+21,2,Lotus,95,ceNder,19,Team Vitality,1,omen,0.82,153,14,20,5,1,5
+21,2,Lotus,92,Kicks,19,Team Vitality,5,breach,0.76,112,10,19,7,0,0
+21,2,Lotus,104,Derke,19,Team Vitality,12,raze,1.31,283,25,15,7,6,4
+21,2,Lotus,103,Chronicle,19,Team Vitality,4,viper,1.15,240,19,16,10,2,0
+21,2,Lotus,105,hiro,19,Team Vitality,16,fade,1.10,223,20,15,8,2,1
+21,2,Lotus,101,Alfajer,19,Team Vitality,8,killjoy,0.82,141,14,14,1,2,2
+21,2,Lotus,102,Boaster,19,Team Vitality,1,omen,0.81,164,12,17,10,4,1
+21,8,Sunset,91,Sayf,19,Team Vitality,18,neon,1.32,285,18,13,8,3,4
+21,8,Sunset,92,Kicks,19,Team Vitality,17,kayo,1.01,176,12,15,12,0,1
+21,8,Sunset,93,trexx,19,Team Vitality,10,sova,0.95,206,13,14,4,3,0
+21,8,Sunset,94,runneR,19,Team Vitality,7,cypher,0.68,150,9,15,5,1,2
+21,8,Sunset,95,ceNder,19,Team Vitality,1,omen,0.59,95,6,16,8,1,4
+21,8,Sunset,103,Chronicle,19,Team Vitality,10,sova,1.33,256,17,11,10,3,2
+21,8,Sunset,105,hiro,19,Team Vitality,7,cypher,1.17,196,15,10,6,2,2
+21,8,Sunset,102,Boaster,19,Team Vitality,13,astra,1.14,208,13,12,9,3,1
+21,8,Sunset,101,Alfajer,19,Team Vitality,5,breach,1.10,182,12,11,11,1,0
+21,8,Sunset,104,Derke,19,Team Vitality,12,raze,1.10,207,16,14,1,2,3
+22,1,Abyss,113,RieNs,24,FUT Esports,5,breach,1.39,264,21,13,18,1,0
+22,1,Abyss,115,Wo0t,24,FUT Esports,19,gekko,1.26,218,16,15,15,3,0
+22,1,Abyss,114,MiniBoo,24,FUT Esports,12,raze,1.25,252,21,14,3,6,6
+22,1,Abyss,111,Boo,24,FUT Esports,13,astra,1.02,179,16,14,5,1,1
+22,1,Abyss,112,benjyfishy,24,FUT Esports,7,cypher,0.77,121,11,16,4,2,3
+22,1,Abyss,118,qRaxs,24,FUT Esports,19,gekko,0.98,223,18,15,4,0,1
+22,1,Abyss,117,yetujey,24,FUT Esports,7,cypher,0.87,159,13,17,8,0,1
+22,1,Abyss,116,MrFaliN,24,FUT Esports,22,deadlock,0.86,177,15,16,3,3,1
+22,1,Abyss,120,cNed,24,FUT Esports,14,jett,0.86,219,17,19,2,5,5
+22,1,Abyss,119,AtaKaptan,24,FUT Esports,1,omen,0.79,129,9,18,10,2,5
+22,8,Sunset,113,RieNs,24,FUT Esports,10,sova,1.12,183,17,15,4,1,0
+22,8,Sunset,115,Wo0t,24,FUT Esports,17,kayo,1.11,185,13,16,20,3,1
+22,8,Sunset,111,Boo,24,FUT Esports,1,omen,1.04,195,15,16,14,2,2
+22,8,Sunset,114,MiniBoo,24,FUT Esports,18,neon,1.03,230,18,20,5,5,7
+22,8,Sunset,112,benjyfishy,24,FUT Esports,7,cypher,1.02,236,22,17,3,2,1
+22,8,Sunset,117,yetujey,24,FUT Esports,7,cypher,1.18,197,16,13,5,1,1
+22,8,Sunset,119,AtaKaptan,24,FUT Esports,1,omen,1.17,280,23,19,7,4,2
+22,8,Sunset,116,MrFaliN,24,FUT Esports,5,breach,0.98,189,17,16,10,0,1
+22,8,Sunset,120,cNed,24,FUT Esports,12,raze,0.79,186,15,19,4,4,6
+22,8,Sunset,118,qRaxs,24,FUT Esports,19,gekko,0.65,157,13,18,6,2,3
+23,5,Icebox,93,trexx,19,Team Vitality,10,sova,0.92,221,13,14,7,1,4
+23,5,Icebox,95,ceNder,19,Team Vitality,4,viper,0.86,212,16,16,2,1,1
+23,5,Icebox,91,Sayf,19,Team Vitality,14,jett,0.76,194,13,17,2,3,3
+23,5,Icebox,92,Kicks,19,Team Vitality,19,gekko,0.72,155,11,15,4,3,2
+23,5,Icebox,94,runneR,19,Team Vitality,8,killjoy,0.70,198,10,18,7,0,1
+23,5,Icebox,113,RieNs,19,Team Vitality,10,sova,1.68,339,24,12,6,2,1
+23,5,Icebox,115,Wo0t,19,Team Vitality,19,gekko,1.56,301,21,14,11,4,0
+23,5,Icebox,114,MiniBoo,19,Team Vitality,18,neon,1.18,260,16,15,12,4,3
+23,5,Icebox,111,Boo,19,Team Vitality,4,viper,0.87,116,9,11,4,1,3
+23,5,Icebox,112,benjyfishy,19,Team Vitality,8,killjoy,0.76,103,10,11,0,0,1
+23,8,Sunset,94,runneR,23,Team Heretics,7,cypher,1.63,296,20,8,5,4,0
+23,8,Sunset,95,ceNder,23,Team Heretics,1,omen,1.37,224,13,9,12,0,4
+23,8,Sunset,93,trexx,23,Team Heretics,10,sova,1.34,220,13,9,7,3,1
+23,8,Sunset,91,Sayf,23,Team Heretics,18,neon,1.15,215,13,11,5,3,0
+23,8,Sunset,92,Kicks,23,Team Heretics,17,kayo,0.99,174,11,12,8,1,1
+23,8,Sunset,115,Wo0t,23,Team Heretics,17,kayo,1.13,258,15,14,7,2,0
+23,8,Sunset,113,RieNs,23,Team Heretics,10,sova,0.79,175,10,13,7,0,2
+23,8,Sunset,111,Boo,23,Team Heretics,1,omen,0.71,142,9,15,9,0,1
+23,8,Sunset,114,MiniBoo,23,Team Heretics,18,neon,0.60,157,9,16,4,4,6
+23,8,Sunset,112,benjyfishy,23,Team Heretics,7,cypher,0.56,91,6,12,2,0,2
+23,2,Lotus,91,Sayf,23,Team Heretics,12,raze,2.06,411,27,7,2,6,0
+23,2,Lotus,93,trexx,23,Team Heretics,16,fade,1.42,215,12,6,10,2,1
+23,2,Lotus,95,ceNder,23,Team Heretics,1,omen,1.33,224,15,10,8,2,2
+23,2,Lotus,94,runneR,23,Team Heretics,7,cypher,1.15,194,12,7,1,0,3
+23,2,Lotus,92,Kicks,23,Team Heretics,5,breach,0.89,183,9,11,13,0,0
+23,2,Lotus,114,MiniBoo,23,Team Heretics,18,neon,0.96,274,15,16,3,3,4
+23,2,Lotus,115,Wo0t,23,Team Heretics,16,fade,0.85,196,9,15,6,1,0
+23,2,Lotus,112,benjyfishy,23,Team Heretics,7,cypher,0.76,128,8,13,3,0,0
+23,2,Lotus,113,RieNs,23,Team Heretics,5,breach,0.60,126,7,15,10,0,2
+23,2,Lotus,111,Boo,23,Team Heretics,1,omen,0.14,58,2,16,4,2,4
+23,3,Haven,93,trexx,23,Team Heretics,10,sova,1.41,242,18,13,12,1,0
+23,3,Haven,94,runneR,23,Team Heretics,7,cypher,1.24,211,18,12,6,0,2
+23,3,Haven,91,Sayf,23,Team Heretics,14,jett,1.22,257,20,14,6,5,7
+23,3,Haven,92,Kicks,23,Team Heretics,5,breach,1.07,147,12,12,10,0,0
+23,3,Haven,95,ceNder,23,Team Heretics,1,omen,0.73,130,9,18,15,2,5
+23,3,Haven,115,Wo0t,23,Team Heretics,5,breach,1.26,245,20,14,4,4,0
+23,3,Haven,112,benjyfishy,23,Team Heretics,7,cypher,0.99,170,14,14,3,2,3
+23,3,Haven,111,Boo,23,Team Heretics,1,omen,0.94,165,13,16,13,4,3
+23,3,Haven,113,RieNs,23,Team Heretics,10,sova,0.79,159,12,15,4,3,1
+23,3,Haven,114,MiniBoo,23,Team Heretics,18,neon,0.60,147,10,18,5,1,1
+24,3,Haven,101,Alfajer,19,Team Vitality,23,iso,1.47,297,22,12,3,4,4
+24,3,Haven,104,Derke,19,Team Vitality,21,yoru,1.33,278,21,13,5,6,3
+24,3,Haven,102,Boaster,19,Team Vitality,1,omen,1.18,163,14,10,9,1,1
+24,3,Haven,105,hiro,19,Team Vitality,7,cypher,1.18,217,17,15,7,0,1
+24,3,Haven,103,Chronicle,19,Team Vitality,10,sova,1.06,141,11,10,7,0,1
+24,3,Haven,93,trexx,19,Team Vitality,10,sova,0.98,187,13,15,4,0,0
+24,3,Haven,92,Kicks,19,Team Vitality,5,breach,0.83,179,13,17,6,3,2
+24,3,Haven,95,ceNder,19,Team Vitality,1,omen,0.70,152,12,18,6,1,1
+24,3,Haven,94,runneR,19,Team Vitality,7,cypher,0.67,155,11,18,5,3,2
+24,3,Haven,91,Sayf,19,Team Vitality,14,jett,0.66,141,11,17,1,3,6
+24,4,Ascent,103,Chronicle,21,FNATIC,10,sova,1.32,291,24,15,2,3,0
+24,4,Ascent,101,Alfajer,21,FNATIC,23,iso,0.89,207,15,16,5,1,4
+24,4,Ascent,105,hiro,21,FNATIC,7,cypher,0.86,140,11,15,8,2,3
+24,4,Ascent,104,Derke,21,FNATIC,21,yoru,0.80,193,14,18,7,2,4
+24,4,Ascent,102,Boaster,21,FNATIC,13,astra,0.71,120,10,15,6,2,1
+24,4,Ascent,91,Sayf,21,FNATIC,14,jett,1.40,253,21,12,3,3,2
+24,4,Ascent,93,trexx,21,FNATIC,10,sova,1.15,236,20,16,6,1,0
+24,4,Ascent,94,runneR,21,FNATIC,8,killjoy,1.07,207,14,15,10,3,2
+24,4,Ascent,92,Kicks,21,FNATIC,17,kayo,0.94,135,12,16,9,3,2
+24,4,Ascent,95,ceNder,21,FNATIC,1,omen,0.88,152,12,15,11,2,4
+24,2,Lotus,101,Alfajer,19,Team Vitality,8,killjoy,1.32,239,22,15,3,4,2
+24,2,Lotus,103,Chronicle,19,Team Vitality,4,viper,1.28,284,21,14,13,2,1
+24,2,Lotus,104,Derke,19,Team Vitality,12,raze,1.03,197,14,15,7,3,2
+24,2,Lotus,102,Boaster,19,Team Vitality,1,omen,1.00,154,11,14,16,3,4
+24,2,Lotus,105,hiro,19,Team Vitality,16,fade,0.95,157,12,15,12,1,0
+24,2,Lotus,92,Kicks,19,Team Vitality,5,breach,1.11,207,17,15,11,0,1
+24,2,Lotus,94,runneR,19,Team Vitality,7,cypher,1.10,225,17,17,7,4,0
+24,2,Lotus,95,ceNder,19,Team Vitality,1,omen,0.98,203,16,16,6,2,3
+24,2,Lotus,93,trexx,19,Team Vitality,16,fade,0.84,156,11,16,12,1,3
+24,2,Lotus,91,Sayf,19,Team Vitality,12,raze,0.70,182,12,17,5,2,6
+24,6,Bind,103,Chronicle,19,Team Vitality,15,skye,1.61,228,14,5,8,1,1
+24,6,Bind,102,Boaster,19,Team Vitality,4,viper,1.50,320,18,8,8,4,2
+24,6,Bind,105,hiro,19,Team Vitality,19,gekko,1.35,192,12,7,5,2,1
+24,6,Bind,104,Derke,19,Team Vitality,12,raze,1.18,199,13,11,4,1,1
+24,6,Bind,101,Alfajer,19,Team Vitality,24,clove,1.18,233,14,10,10,2,1
+24,6,Bind,92,Kicks,19,Team Vitality,19,gekko,0.88,192,10,14,4,1,2
+24,6,Bind,91,Sayf,19,Team Vitality,12,raze,0.83,218,9,14,8,1,2
+24,6,Bind,95,ceNder,19,Team Vitality,1,omen,0.61,111,7,15,5,2,4
+24,6,Bind,94,runneR,19,Team Vitality,4,viper,0.57,161,7,14,4,1,1
+24,6,Bind,93,trexx,19,Team Vitality,16,fade,0.57,159,7,14,3,1,1
